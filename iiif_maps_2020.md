@@ -4,7 +4,7 @@ title: IIIF + Maps 2020
 permalink: /iiif+maps_2020/
 ---
 
-IIIF + Maps aims to move forward the IIIF and Maps Community Group formation and start to work on collaboration for common goals. This event will be held February 6 - 7, 2020.
+IIIF + Maps aims to move forward IIIF and Maps integration and start to work on collaboration for common goals. This event will be held February 6 - 7, 2020.
 
 Some of the goals of this meeting will be to:
  - Advance IIIF integration with geospatial metadata
