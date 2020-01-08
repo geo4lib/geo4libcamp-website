@@ -156,14 +156,14 @@
     'Physical Address': 'Lathrop Library (Rm 370 and 369)'
 -
     ID: '21'
-    Title: 'Workshop: TBA'
+    Title: 'Introduction to GeoBlackight and GeoBlacklight Metadata Customization with GitHub'
     'Published?': Y
     Day: Monday
     'Start Date & Time': '2020-02-03 13:30'
     'End Date & Time': '2020-02-03 16:30'
     Type/Track: Workshop
     Description: ""
-    Speakers: ""
+    Speakers: "Andrew Battista, Christina Chortaria, and Eliot Jordan"
     Venue: 'Branner Library SW Corner, Branner Earth Sciences Library'
     'Physical Address': '397 Panama Mall, Stanford, CA 94305'
 -
@@ -264,14 +264,14 @@
     'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
     ID: '3'
-    Title: 'Workshop: TBA'
+    Title: 'Geospatial metadata'
     'Published?': Y
     Day: Monday
     'Start Date & Time': '2020-02-03 13:30'
     'End Date & Time': '2020-02-03 16:30'
     Type/Track: Workshop
     Description: ""
-    Speakers: ""
+    Speakers: "Kim Durante, Melinda Kernik, and Karen Majewicz"
     Venue: 'Branner Teaching Corner, Branner Earth Sciences Library'
     'Physical Address': '397 Panama Mall, Stanford, CA 94305'
 -
@@ -396,14 +396,14 @@
     'Physical Address': '547 Emerson Avenue, Palo Alto, CA 94301'
 -
     ID: '4'
-    Title: 'Workshop: TBA'
+    Title: 'Creating GeoJSON for OpenIndexMaps'
     'Published?': Y
     Day: Monday
     'Start Date & Time': '2020-02-03 13:30'
     'End Date & Time': '2020-02-03 16:30'
     Type/Track: Workshop
     Description: ""
-    Speakers: ""
+    Speakers: "Keith Jenkins"
     Venue: 'Hartley Conference Center'
     'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
