@@ -11,18 +11,6 @@
     Venue: 'Hartley Conference Center'
     'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
-    ID: '12'
-    Title: 'Happy Hour at the Old Pro!'
-    'Published?': Y
-    Day: Tuesday
-    'Start Date & Time': '2020-02-04 17:30'
-    'End Date & Time': '2020-02-04 19:30'
-    Type/Track: 'Food & Social'
-    Description: '541 Ramona St, Palo Alto, CA 94301'
-    Speakers: ""
-    Venue: 'The Old Pro'
-    'Physical Address': '541 RAMONA ST. PALO ALTO, CA 94301'
--
     ID: '10'
     Title: 'Unconference sessions'
     'Published?': Y
