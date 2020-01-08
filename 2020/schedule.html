@@ -16,7 +16,7 @@ permalink: /2020/schedule
 
   {% assign sorted_events = day.items | date_time_sort: 'Start Date & Time' %}
   {% for event in sorted_events %}
-    <div class="card m-2">
+    <div class="card m-2 schedule-card">
       <div class="card-body row row-cols-2">
         <div class="col">
           <div class="card-title h4">

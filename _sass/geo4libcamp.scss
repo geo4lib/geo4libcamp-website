@@ -3,3 +3,11 @@
 a.no-underline {
   text-decoration: none;
 }
+
+.schedule-card {
+  border-width: 2px;
+  transition-duration: 300ms;
+  &:hover,:focus {
+    border-color: #7ac64d;
+  }
+}
