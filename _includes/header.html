@@ -8,14 +8,18 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
-            <li class="nav-item">
-              <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            </li>
-          {%- endif -%}
-        {%- endfor -%}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Geo4LibCamp 2020
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="/2020">Geo4LibCamp 2020</a>
+            <a class="dropdown-item" href="/2020/schedule">Schedule</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/iiif+maps_2020">IIIF + Maps 2020</a>
+        </li>
       </ul>
     </div>
   </div>
