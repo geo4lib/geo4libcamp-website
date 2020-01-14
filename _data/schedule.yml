@@ -188,19 +188,19 @@
     Type/Track: ""
     Description: ""
     Speakers: ""
-    Venue: 'David Rumsey Center'
+    Venue: 'David Rumsey Map Center'
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
     ID: '25'
-    Title: 'Panel Discussion'
+    Title: 'Lightning talks'
     'Published?': Y
     Day: Tuesday
     'Start Date & Time': '2020-02-04 10:45'
     'End Date & Time': '2020-02-04 12:00'
-    Type/Track: 'Panel Discussion'
+    Type/Track: 'Lightning talks'
     Description: ""
     Speakers: TBA
-    Venue: 'David Rumsey Center'
+    Venue: 'David Rumsey Map Center'
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
     ID: '26'
@@ -323,18 +323,6 @@
     Venue: 'Hartley Conference Center'
     'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
-    ID: '35'
-    Title: Coffee/Snacks
-    'Published?': Y
-    Day: Thursday
-    'Start Date & Time': '2020-02-06 8:30'
-    'End Date & Time': '2020-02-06 9:00'
-    Type/Track: 'Food & Social'
-    Description: 'We will have some coffee and snacks before we get started'
-    Speakers: ""
-    Venue: 'Lathrop Library, 3rd Floor'
-    'Physical Address': 'Lathrop Library (Rm 370 and 369)'
--
     ID: '36'
     Title: Coffee/Snacks
     'Published?': Y
@@ -344,8 +332,8 @@
     Type/Track: 'Food & Social'
     Description: 'We will have some coffee and snacks before we get started'
     Speakers: ""
-    Venue: 'Lathrop Library, 3rd Floor'
-    'Physical Address': 'Lathrop Library (Rm 370 and 369)'
+    Venue: 'Hartley Conference Center'
+    'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
     ID: '37'
     Title: 'Wrap-up, Reports, +1 & Deltas'
@@ -368,7 +356,7 @@
     Type/Track: Talk
     Description: 'An Introduction to the David Rumsey Map Center and Logistics for the day'
     Speakers: 'Stace Maples; Salim Mohammed'
-    Venue: 'David Rumsey Center'
+    Venue: 'David Rumsey Map Center'
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
     ID: '39'
@@ -399,25 +387,37 @@
     Title: 'IIIF + Maps 2020'
     'Published?': Y
     Day: Friday
-    'Start Date & Time': '2020-02-07 8:00'
+    'Start Date & Time': '2020-02-07 9:00'
     'End Date & Time': '2020-02-07 17:00'
     Type/Track: Unconference
     Description: ""
     Speakers: ""
-    Venue: TBA
-    'Physical Address': ""
+    Venue: 'Hartley Conference Center'
+    'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
     ID: '41'
     Title: 'IIIF + Maps 2020'
     'Published?': Y
     Day: Thursday
-    'Start Date & Time': '2020-02-06 8:00'
+    'Start Date & Time': '2020-02-06 9:00'
+    'End Date & Time': '2020-02-06 12:00'
+    Type/Track: Unconference
+    Description: ""
+    Speakers: ""
+    Venue: 'David Rumsey Map Center'
+    'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
+-
+    ID: '41'
+    Title: 'IIIF + Maps 2020'
+    'Published?': Y
+    Day: Thursday
+    'Start Date & Time': '2020-02-06 13:30'
     'End Date & Time': '2020-02-06 17:00'
     Type/Track: Unconference
     Description: ""
     Speakers: ""
-    Venue: TBA
-    'Physical Address': ""
+    Venue: 'Branner Teaching Corner'
+    'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
     ID: '5'
     Title: 'Keynote: TBA'
@@ -428,7 +428,7 @@
     Type/Track: 'Keynote Session'
     Description: ""
     Speakers: 'Susan Powell'
-    Venue: 'David Rumsey Center'
+    Venue: 'David Rumsey Map Center'
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
     ID: '6'
