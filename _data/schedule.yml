@@ -192,14 +192,14 @@
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
     ID: '25'
-    Title: 'Lightning talks'
+    Title: 'Keynote: Mapping Prejudice: Cartographic Activism and Primary Sources'
     'Published?': Y
     Day: Tuesday
     'Start Date & Time': '2020-02-04 10:45'
     'End Date & Time': '2020-02-04 12:00'
-    Type/Track: 'Lightning talks'
+    Type/Track: 'Keynote'
     Description: ""
-    Speakers: TBA
+    Speakers: Ryan Mattke
     Venue: 'David Rumsey Map Center'
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
@@ -420,7 +420,7 @@
     'Physical Address': 'Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA'
 -
     ID: '5'
-    Title: 'Keynote: TBA'
+    Title: 'Keynote: Building & Sharing a Historical GIS: Insights from working with twentieth-century Mongolian maps'
     'Published?': Y
     Day: Tuesday
     'Start Date & Time': '2020-02-04 9:30'
