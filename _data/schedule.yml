@@ -151,7 +151,7 @@
     'End Date & Time': '2020-02-03 16:30'
     Type/Track: Workshop
     Description: ""
-    Speakers: "Andrew Battista, Christina Chortaria, and Eliot Jordan"
+    Speakers: "Andrew Battista, Christina Chortaria, James Griffin, and Eliot Jordan"
     Venue: 'Branner Library SW Corner, Branner Earth Sciences Library'
     'Physical Address': '397 Panama Mall, Stanford, CA 94305'
 -
@@ -432,7 +432,7 @@
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
     ID: '6'
-    Title: 'Lunch (catered at Hartley) - GeoBlacklight Governance'
+    Title: 'Lunch (catered at Hartley) - GeoBlacklight Governance and Roadmap'
     'Published?': Y
     Day: Tuesday
     'Start Date & Time': '2020-02-04 12:00'
