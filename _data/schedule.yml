@@ -191,11 +191,23 @@
     Venue: 'David Rumsey Map Center'
     'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
 -
+    ID: '24'
+    Title: Lightning talks
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': '2020-02-04 10:45'
+    'End Date & Time': '2020-02-04 11:15'
+    Type/Track: ""
+    Description: ""
+    Speakers: ""
+    Venue: 'David Rumsey Map Center'
+    'Physical Address': 'Bing Wing of Green Library (Entrance in Rotunda)'
+-
     ID: '25'
     Title: 'Keynote: Mapping Prejudice: Cartographic Activism and Primary Sources'
     'Published?': Y
     Day: Tuesday
-    'Start Date & Time': '2020-02-04 10:45'
+    'Start Date & Time': '2020-02-04 11:15'
     'End Date & Time': '2020-02-04 12:00'
     Type/Track: 'Keynote'
     Description: ""
