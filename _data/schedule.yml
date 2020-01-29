@@ -84,16 +84,16 @@
     'Physical Address': 'Lathrop Library (Rm 370 and 369)'
 -
     ID: '17'
-    Title: 'Happy Hour at the Tap Room'
+    Title: 'Cantor Museum Gathering'
     'Published?': Y
     Day: Thursday
     'Start Date & Time': '2020-02-06 17:30'
     'End Date & Time': '2020-02-06 19:00'
-    Type/Track: 'Food & Social'
-    Description: 'Join us for an informal meetup and happy hour at The Tap Room!'
+    Type/Track: ''
+    Description: ''
     Speakers: ""
-    Venue: 'The Tap Room'
-    'Physical Address': '233 University Ave, Palo Alto, CA 94301'
+    Venue: 'Cantor Museum'
+    'Physical Address': '328 Lomita Drive at Museum Way Stanford, CA 94305-5060'
 -
     ID: '18'
     Title: 'Geo4Lib Working session'
