@@ -1,0 +1,274 @@
+-
+    ID: '11'
+    Title: 'Welcome and Logistics'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': 2021-02-08 9:00
+    'End Date & Time': 2021-02-08 9:30
+    Type/Track: Plenary
+    Description: 'An introductory talk to discuss logistics and set our agenda.'
+    Speakers: ''
+    Venue: 'Online Zoom'
+-
+    ID: '12'
+    Title: 'An introduction to Geo4LibCamp'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 09:30'
+    'End Date & Time': '2021-02-08 10:15'
+    Type/Track: Plenary
+    Description: ""
+    Speakers: ""
+    Venue: 'Online Zoom'
+
+-
+    ID: '13'
+    Title: 'Break'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 10:15'
+    'End Date & Time': '2021-02-08 10:30'
+    Type/Track: Break
+    Description: ''
+    Speakers: ""
+    Venue: 'Online Zoom'
+
+-
+    ID: '14'
+    Title: 'Mini Workshop: GeoBlacklight Deep Dive'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 10:30'
+    'End Date & Time': '2021-02-08 12:00'
+    Type/Track: Workshop
+    Description: 'This workshop will provide a guided tour through the GeoBlacklight codebase.'
+    Speakers: "Eliot Jordan and Jack Reed"
+    Venue: 'Online Zoom'
+
+-
+    ID: '15'
+    Title: 'Mini Workshop: Data wrangling, management, and formats'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 10:30'
+    'End Date & Time': '2021-02-08 12:00'
+    Type/Track: Workshop
+    Description: ""
+    Speakers: ""
+    Venue: 'Online Zoom'
+
+-
+    ID: '15'
+    Title: 'Break'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 12:00'
+    'End Date & Time': '2021-02-08 12:15'
+    Type/Track: Break
+    Description: ""
+    Speakers: ""
+    Venue: 'Online Zoom'
+
+-
+    ID: '15'
+    Title: 'Unconference planning'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 12:15'
+    'End Date & Time': '2021-02-08 13:00'
+    Type/Track: Unconference
+    Description: ""
+    Speakers: ""
+    Venue: 'Online Zoom'
+
+-
+    ID: '21'
+    Title: 'Keynote: TBA'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 9:00
+    'End Date & Time': 2021-02-09 9:45
+    Type/Track: Plenary
+    Description: 'TBA'
+    Speakers: 'Mara Blake & Reina Chano Murray'
+    Venue: 'Online Zoom'
+
+-
+    ID: '22'
+    Title: 'Keynote: TBA'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 9:45
+    'End Date & Time': 2021-02-09 10:30
+    Type/Track: Plenary
+    Description: 'TBA'
+    Speakers: 'Andrew Battista'
+    Venue: 'Online Zoom'
+
+-
+    ID: '23'
+    Title: 'Break'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 10:30
+    'End Date & Time': 2021-02-09 10:45
+    Type/Track: Break
+    Description:
+    Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '24'
+    Title: 'Unconference session 1A'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 10:45
+    'End Date & Time': 2021-02-09 11:45
+    Type/Track: Unconference
+    Description:
+    Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '25'
+    Title: 'Unconference session 1B'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 10:45
+    'End Date & Time': 2021-02-09 11:45
+    Type/Track: Unconference
+    Description:
+    Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '26'
+    Title: 'Break'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 11:45
+    'End Date & Time': 2021-02-09 12:00
+    Type/Track: Break
+    Description:
+    Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '27'
+    Title: 'Unconference session 2A'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 12:00
+    'End Date & Time': 2021-02-09 13:00
+    Type/Track: Unconference
+    Description:
+    Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '28'
+    Title: 'Unconference session 2B'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': 2021-02-09 12:00
+    'End Date & Time': 2021-02-09 13:00
+    Type/Track: Unconference
+    Description:
+    Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '31'
+    Title: 'Lightning talks'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 9:00
+    'End Date & Time': 2021-02-10 9:45
+    Type/Track: Plenary
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '32'
+    Title: 'Break'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 9:45
+    'End Date & Time': 2021-02-10 10:00
+    Type/Track: Break
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '33'
+    Title: 'Unconference session 3A'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 10:00
+    'End Date & Time': 2021-02-10 11:00
+    Type/Track: Unconference
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '34'
+    Title: 'Unconference session 3B'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 10:00
+    'End Date & Time': 2021-02-10 11:00
+    Type/Track: Unconference
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '35'
+    Title: 'Break'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 11:00
+    'End Date & Time': 2021-02-10 11:15
+    Type/Track: Break
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '36'
+    Title: 'Unconference session 4A'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 11:15
+    'End Date & Time': 2021-02-10 12:45
+    Type/Track: Unconference
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '37'
+    Title: 'Unconference session 4B'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 11:15
+    'End Date & Time': 2021-02-10 12:45
+    Type/Track: Unconference
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
+
+-
+    ID: '37'
+    Title: 'Conference wrap up'
+    'Published?': Y
+    Day: Wednesday
+    'Start Date & Time': 2021-02-10 12:45
+    'End Date & Time': 2021-02-10 13:00
+    Type/Track: Plenary
+    Description: ''
+    Speakers: ''
+    Venue: 'Online Zoom'
