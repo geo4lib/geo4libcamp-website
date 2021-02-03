@@ -82,6 +82,18 @@
     Venue: 'Online Zoom'
 
 -
+    ID: '16'
+    Title: 'Social time'
+    'Published?': Y
+    Day: Monday
+    'Start Date & Time': '2021-02-08 13:00'
+    'End Date & Time': '2021-02-08 14:00'
+    Type/Track: Unconference
+    Description: ""
+    Speakers: ""
+    Venue: 'Online Zoom'
+
+-
     ID: '21'
     Title: 'The library’s role during the pandemic: public research and the JHU global COVID-19 dashboard'
     'Published?': Y
@@ -175,6 +187,18 @@
     Type/Track: Unconference
     Description:
     Speakers:
+    Venue: 'Online Zoom'
+
+-
+    ID: '29'
+    Title: 'Social time'
+    'Published?': Y
+    Day: Tuesday
+    'Start Date & Time': '2021-02-09 13:00'
+    'End Date & Time': '2021-02-09 14:00'
+    Type/Track: Unconference
+    Description: ""
+    Speakers: ""
     Venue: 'Online Zoom'
 
 -
