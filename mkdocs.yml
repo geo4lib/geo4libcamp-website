@@ -1,0 +1,52 @@
+site_name: Geo4LibCamp
+theme:
+  name: material
+  icon:
+#     logo: material/map-marker-path
+#     logo: material/map-search
+  logo: images/logo-no-text.jpg
+  favicon: images/favicon.png
+  palette:
+      
+    # Palette toggle for light mode
+    - scheme: default
+      primary: green
+      toggle:
+        icon: material/brightness-5
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+        
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.follow
+    
+extra_css:
+  - extra.css
+  
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+  
+nav:
+  - Home : index.md
+  - About: about.md
+  - Glossary : glossary.md
+
