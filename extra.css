@@ -1,0 +1,104 @@
+/* Text styles */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility; }
+
+h1 {
+  font-size: 2.5em; 
+  }
+
+h2 {
+  font-size: 2.25em;
+     }
+
+h3 {
+  font-size: 2em; }
+
+h4 {
+  font-size: 1.75em; }
+
+h5 {
+  font-size: 1.5em; }
+
+h6 {
+  font-size: 1.5em; }
+
+p {
+  margin: 0 0 0.75em; 
+  font-size: 1.25em; 
+  }
+  
+  li {
+  font-size: 1em; 
+  }
+  
+/* youtube video icon color */
+.video {
+  color: red;
+}
+  
+  
+/* HEADER ITEMS */
+/* set the size of the site title in the banner */
+.md-header  {
+  background-color: #fff;
+   }
+
+.md-header__topic  {
+  font-size: 2em; 
+  }
+
+.md-ellipsis {
+  color: #000;
+  }
+
+.md-header__button{
+  color: #000
+}
+
+
+/* Top Menu items */
+
+.md-tabs {
+  padding-bottom: .75em;
+  margin-bottom: .5em;
+  margin-top: 1em;
+}
+
+.md-tabs__link--active {
+  color: #000;
+}
+
+.md-tabs__link  {
+  font-size: 2.5em; 
+  }
+  
+
+
+/* Side navigation*/
+
+/* puts the Table of Contents TOC on the left */
+.md-sidebar--secondary {
+  order: 0;
+  width: 25%;
+}
+
+.md-nav__link  {
+  font-size: 1.2em; 
+  }
+
+
+/* FOOTER */
+/* hide navigation arrows */
+.md-footer__inner:not([hidden]) {
+    display: none
+}
+
+
