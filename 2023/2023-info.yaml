@@ -1,0 +1,11 @@
+- title: Conference details
+  content: :octicons-calendar-24: July 24 - 28, 2023 <br> :octicons-location-24: Stanford University, Palo Alto, California
+  image: ../images/banner.jpg
+
+- title: Conference details
+  content: Lorem ipsum dolor sit amet.
+  image: ../images/banner.jpg
+  
+  - title: Conference details
+  content: Lorem ipsum dolor sit amet.
+  image: ../images/banner.jpg
