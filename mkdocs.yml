@@ -1,6 +1,7 @@
 site_name: Geo4LibCamp
 theme:
   name: material
+  custom_dir: overrides
   logo: images/logo-no-text.jpg
   favicon: images/favicon.png
   palette:
