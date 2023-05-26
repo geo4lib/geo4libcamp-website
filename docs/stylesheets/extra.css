@@ -101,6 +101,7 @@ h6 {
 
 .md-tabs__link--active {
   color: #fff;
+  font-weight: 700;
 }
 
 .md-tabs__link  {
