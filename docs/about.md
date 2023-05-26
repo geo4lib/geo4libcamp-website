@@ -2,15 +2,22 @@
 hide:
   - navigation
 ---
+
+![Geo4LibCamp-logo](images/banner.jpg){ align=right width=300px}
+
 ## What is Geo4LibCamp?
 
-Geo4LibCamp is a week-long meeting for anyone interested in how libraries can manage and provide access to geospatial resources. This hands-on event is often attended by map librarians, metadata specialists, application developers, geospatial professionals, and educators. Geo4LibCamp typically features a mix of presentations, workshops, and small group discussions that cover a wide range of topics, including:
+Geo4LibCamp is a hands-on meeting for anyone interested in how libraries can manage and provide access to geospatial resources. This event is often attended by map librarians, metadata specialists, application developers, geospatial professionals, and educators. The main focus is to share best-practices, solve common problems, and address technical issues with integrating geospatial data into a repository and associated services. For the purposes of the camp, we broadly define geospatial data from scanned maps and aerial photography to highly structured shapefiles. 
+
+Geo4LibCamp typically features a mix of presentations, workshops, and small group discussions that cover a wide range of topics, including:
 
 * Spatial infrastructures & repositories
 * Geospatial discovery platforms and web services
 * Metadata standards and authoring practices
 * Data management and stewardship
 * Geospatial data resources in support of research and education
+
+
 
 ## 2023 Planning Committee
 

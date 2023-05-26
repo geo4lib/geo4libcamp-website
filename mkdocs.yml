@@ -1,26 +1,10 @@
 site_name: Geo4LibCamp
 theme:
   name: material
-  icon:
-#     logo: material/map-marker-path
-#     logo: material/map-search
   logo: images/logo-no-text.jpg
   favicon: images/favicon.png
   palette:
-      
-    # Palette toggle for light mode
-    - scheme: default
-      primary: green
-      toggle:
-        icon: material/brightness-5
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: green
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+    - scheme: gbl-custom
         
   features:
     - navigation.expand
@@ -31,7 +15,13 @@ theme:
     - toc.follow
     
 extra_css:
-  - extra.css
+  - stylesheets/extra.css
+  - stylesheets/neoteroi-mkdocs.css
+  - stylesheets/neoteroi-mkdocs.min.css
+  - stylesheets/neoteroi-timeline.css
+  - stylesheets/neoteroi-cards.css
+  - stylesheets/neoteroi-gantt.css
+  - stylesheets/neoteroi-spantable.css
   
 markdown_extensions:
   - attr_list
@@ -40,13 +30,24 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - neoteroi.timeline
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   
   
+      
+plugins:
+  - search
+  - table-reader
+  - open-in-new-tab
+  
+  
 nav:
   - Home : index.md
   - About: about.md
+  - Agenda 2023 : 2023/agenda.md
   - Glossary : glossary.md
 

@@ -1,0 +1,60 @@
+- content:  30 minutes
+  icon: ':material-coffee-outline:'
+  sub_title: 8:30 AM <br> Monday
+  title: Coffee/snacks
+  
+- content: 30 minutes
+  icon: ':octicons-project-roadmap-24:'
+  sub_title: 9:00 AM <br> Monday
+  title: Welcome & Logistics
+  
+- content: 30 minutes
+  icon: ':material-human-greeting-variant:'
+  sub_title: 9:30 AM <br> Monday
+  title: Introductions
+  
+- content: tbd
+  icon: ':key2:'
+  sub_title: 10:00 AM <br> Monday
+  title: Keynote
+  
+- content: 30 minutes
+  icon: ':material-coffee-outline:'
+  sub_title: 10:30 AM <br> Monday
+  title: Break
+  
+- content: tbd
+  icon: ':key2:'
+  sub_title: 11:00 AM <br> Monday
+  title: Unconference Planning Overview
+  
+- content: Workshop facilitators will describe their planned sessions.
+  icon: ':key2:'
+  sub_title: 11:30 AM <br> Monday
+  title: Workshop pitches
+  
+- content: 90 minutes
+  icon: ':shallow_pan_of_food:'
+  sub_title: 12:00 PM <br> Monday
+  title: Lunch
+  
+- content: tbd
+  icon: ':material-google-classroom:'
+  sub_title: 1:30 PM <br> Monday
+  title: Workshops
+  
+- content: 30 minutes
+  icon: ':material-coffee-outline:'
+  sub_title: 3:00 PM <br> Monday
+  title: Break
+  
+- content: tbd
+  icon: ':material-google-classroom:'
+  sub_title: 3:30 PM <br> Monday
+  title: Workshops
+  
+- content: Happy Hour?
+  icon: ':fontawesome-solid-champagne-glasses:'
+  sub_title: 5:00 PM <br> Monday
+  title: Evening Activity
+  

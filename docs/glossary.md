@@ -4,15 +4,17 @@ hide:
 
 ---
 
+!!! question	inline end "Have a term to add?"
+
+	 **[Create an issue on GitHub!](https://github.com/geo4lib/geo4libcamp-website/issues)**
+
+
 *terms, phrases, acronyms, & jargon commonly used during Geo4LibCamp.*
 
-!!! question	"Have a question or term to add?"
-
-	 [Create an issue on GitHub!](https://github.com/geo4lib/geo4libcamp-website/issues)
 
 ### Aardvark
 
-Aardvark is the name of the latest version of the GeoBlacklight Metadata Schema. Read more at on the OpenGeoMetadata website: [https://opengeometadata.org/docs/ogm-aardvark](https://opengeometadata.org/docs/ogm-aardvark)
+Aardvark is the name of the latest version of the GeoBlacklight Metadata Schema. Read more at on the OpenGeoMetadata website: [https://opengeometadata.org/ogm-aardvark](https://opengeometadata.org/ogm-aardvark)
 
 ### Accessioning
 
@@ -269,9 +271,12 @@ Postgres, also known as PostgreSQL, is a free and open-source object-relational 
 In order to make a map, one has to represent the three-dimensional surface of the earth on a two-dimensional plane. There are different ways in which one might flatten the earth to represent it on a two-dimensional map, and these different flattening algorithms (all of which involve distortions of one kind or another) are referred to as map projections. Most maps published on the web are in the Web Mercator projection. Related terms: CRS (coordinate reference system) or the older term SRS (spatial reference system) https://www.gislounge.com/map-projection/
 
 ### Pull requests
-https://blog.axosoft.com/learning-git-pull-request/;
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github; On Git and Github:
-https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+
+Part of a development workflow when someone wants to merge changes. Read more at the following links:
+
+* [https://blog.axosoft.com/learning-git-pull-request/](https://blog.axosoft.com/learning-git-pull-request/)
+* [https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github; On Git and Github](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github; On Git and Github)
+* [https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
 
 ### Raster
 
