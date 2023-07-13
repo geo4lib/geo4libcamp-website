@@ -7,48 +7,38 @@
   icon: ':octicons-project-roadmap-24:'
   sub_title: 9:00 AM  <br> Tuesday
   title: Welcome & Logistics
-  
-- content: tbd
-  icon: ':key2:'
-  sub_title: 9:30 AM  <br> Tuesday
-  title: Keynote
-  
-- content: 30 minutes
-  icon: ':material-coffee-outline:'
-  sub_title: 10:30 AM  <br> Tuesday
-  title: Break
-  
-- content: tbd
-  icon: ':material-lightning-bolt:'
-  sub_title: 11:00 AM  <br> Tuesday
-  title: Lightning Talks
-  
-- content: Participants pitch ideas for unconference sessions.
-  icon: ':key2:'
-  sub_title: 11:30 AM  <br> Tuesday
-  title: Unconference Planning
-  
+    
+- content: 120 minutes <br>  We will join the [GLOW virtual session](https://www.lib.uchicago.edu/conferences/glow/), modified for an online and condensed format, our discussions will cover workflows and activities undertaken within university library contexts, building on shared vocabularies and practices. A second focal area includes review of current and future digital platforms regularly used as portals for search and dissemination of OERs.
+  icon: ':material-google-classroom:'
+  sub_title: 10:00 AM  <br> Tuesday
+  title: GIS Librarians for Open Workflows (GLOW) Virtual Forum Group
+      
 - content: 90 minutes
   icon: ':shallow_pan_of_food:'
   sub_title: 12:00 PM  <br> Tuesday
   title: Lunch
   
-- content: tbd
-  icon: ':material-google-classroom:'
+- content: 60 minutes <br> Michal has been a leader in open source geospatial software and data in many organizations, as technical director of National Design Award-winning mapping and data visualization studio Stamen and Chief Technology Officer at government technology non-profit Code for America.
+  icon: ':key2:'
   sub_title: 1:30 PM  <br> Tuesday
-  title: Unconference Sessions
+  title: Keynote Speaker - Michal Migurski of Planscore.org
+  
+- content: We will collaboaratively select the unconference topics and set up sessions
+  icon: ':material-google-classroom:'
+  sub_title: 3:30 PM  <br> Tuesday
+  title: Unconference voting and scheduling
   
 - content: 30 minutes
   icon: ':material-coffee-outline:'
   sub_title: 3:00 PM  <br> Tuesday
   title: Break
   
-- content: tbd
+- content: 90 minutes
   icon: ':material-google-classroom:'
   sub_title: 3:30 PM  <br> Tuesday
   title: Unconference Sessions
   
-- content: Pizza at the Farm
+- content: tbd
   icon: ':pizza:'
   sub_title: 5:00 PM  <br> Tuesday
   title: Evening Activity
