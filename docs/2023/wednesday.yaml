@@ -8,10 +8,10 @@
   sub_title: 9:00 AM <br> Wednesday
   title: Welcome & Logistics
   
-- content: tbd
+- content: The Conrad Collection on Dutch Waterways is the personal collection of Jan Frederick Willem Conrad, a 19th century Dutch engineer and former chief inspector of Rijkswaterstaat. Included in this collection are cartographic and technical materials that document the construction of the Dutch waterway and coastal infrastructure during the 17th to 20th centuries.
   icon: ':key2:'
   sub_title: 9:30 AM <br> Wednesday
-  title: Keynote
+  title: Keynote Speaker - Brynn Kramer - The Conrad Collection on Dutch Waterways
   
 - content: 30 minutes
   icon: ':material-coffee-outline:'
@@ -19,9 +19,9 @@
   title: Break
   
 - content: tbd
-  icon: ':material-lightning-bolt:'
+  icon: ':material-google-classroom:'
   sub_title: 11:00 AM <br> Wednesday
-  title: Vendor Presentations
+  title: Unconference sessions
   
 - content: 90 minutes
   icon: ':shallow_pan_of_food:'
@@ -43,13 +43,8 @@
   sub_title: 3:30 PM <br> Wednesday
   title: Unconference Sessions
   
-- content: tbd
-  icon: ':material-google-classroom:'
-  sub_title: 3:30 PM <br> Wednesday
-  title: Geo4LibCamp Debrief
-  
-- content: Happy Hour
-  icon: ':fontawesome-solid-champagne-glasses:'
-  sub_title: 5:00 PM <br> Wednesday
+- content: Pizza at the Farm - Stanford Teaching Farm
+  icon: ':pizza:'
+  sub_title: 6:00 PM <br> Wednesday
   title: Evening Activity
   
