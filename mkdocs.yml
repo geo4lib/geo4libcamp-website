@@ -49,7 +49,8 @@ plugins:
   
 nav:
   - Home : index.md
-  - About: about.md
   - Agenda 2023 : 2023/agenda.md
+  - Sessions 2023 : 2023/sessions.md
+  - About: about.md
   - Glossary : glossary.md
 
