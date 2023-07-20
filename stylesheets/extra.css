@@ -5,7 +5,8 @@ a {
 }
 
 a:hover { 
-      font-weight: 600;
+      font-weight: 400;
+      transition: 0.2s;
 }
 
 h1,
