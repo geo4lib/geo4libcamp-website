@@ -8,7 +8,7 @@ hide:
 
 # Geo4LibCamp Unconference Agenda 2023
 
-Geo4LibCamp is structured as an unconference with suggested topics coming from the participants on the first day of the meeting, but we will also have a few prepared plenary sessions. Following the camp, on Thursday and Friday, we will have optional post-conference working sessions.
+Geo4LibCamp is structured as an unconference with suggested topics coming from the participants on the first day of the meeting, but we will also have a few prepared [plenary sessions](sessions.md). Following the camp, on Thursday and Friday, we will have optional post-conference working sessions.
 
 [See the Eventbrite page for the full schedule](https://www.eventbrite.com/e/geo4libcamp-2023-tickets-643151833447)
 
