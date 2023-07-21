@@ -10,7 +10,7 @@ Geo4LibCamp is structured as an unconference with suggested topics coming from t
 
 <div class="grid cards" markdown>
 
-- #### See the [Eventbrite page :octicons-link-external-24:  ](https://www.eventbrite.com/e/geo4libcamp-2023-tickets-643151833447?aff=oddtdtcreator) for the full schedule with descriptions and Zoom links
+- #### See the [Eventbrite page :octicons-link-external-24:  ](https://www.eventbrite.com/e/geo4libcamp-2023-tickets-643151833447?aff=oddtdtcreator) for the full schedule.
 
 </div>
 
