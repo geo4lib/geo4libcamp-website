@@ -10,7 +10,7 @@ Geo4LibCamp is structured as an unconference with suggested topics coming from t
 
 <div class="grid cards" markdown>
 
-- ## See the [Eventbrite page :octicons-link-external-24:  ](https://www.eventbrite.com/e/geo4libcamp-2023-tickets-643151833447?aff=oddtdtcreator) for the full schedule with descriptions and Zoom links
+- #### See the [Eventbrite page :octicons-link-external-24:  ](https://www.eventbrite.com/e/geo4libcamp-2023-tickets-643151833447?aff=oddtdtcreator) for the full schedule with descriptions and Zoom links
 
 </div>
 
@@ -19,9 +19,15 @@ Geo4LibCamp is structured as an unconference with suggested topics coming from t
 
 <div class="grid cards" markdown>
 
-- :map: **In-person attendees**: [Refer to this map of Geo4LibCamp events on the Stanford Campus](https://felt.com/map/Geo4LibCamp-2023-lFwiBlkYSgeffJ8uwxryEA?loc=37.433323,-122.170171,16.02z&share=1)
+- :material-map-marker: **In-person attendees** 
 
-- :material-video: **Virtual attendees**: please see your Eventbrite confirmation for the conference Zoom link.
+    - All events will be held on the Stanford University Campus
+    - [This online map displays locations :octicons-link-external-24:](https://felt.com/map/Geo4LibCamp-2023-lFwiBlkYSgeffJ8uwxryEA?loc=37.433323,-122.170171,16.02z&share=1)
+
+- :material-video: **Virtual attendees**
+
+    - Most of the conference, including lightning talks and unconference sessions, will be accessible via a single Zoom meeting link. **See your Eventbrite confirmation email for the conference Zoom link.** 
+    - The Keynotes will be streamed via a separate webinar link listed in the event description.
 
 </div>
 

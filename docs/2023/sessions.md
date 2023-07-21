@@ -13,7 +13,7 @@ Our planned sessions include lightning talks, a workshop, two keynotes, and a so
 :calendar_spiral: Monday, July 24, 2023 @11:00am – 12:00pm PST
 
 * Karen Majewicz - OpenGeoMetadata Updates
-* Eric Larson - GeoBlacklight Admin: Metadata Editor
+* Eric Larson - GeoBlacklight Admin: An OGM Aardvark Workflow Application
 * Eliot Jordan- New Data Formats for GeoBlacklight
 * Stace Maples - What going on in IIIF Maps
 
@@ -43,6 +43,8 @@ This lesson covers how to open, work with, and plot vector and raster-format spa
 
 :calendar_spiral: Tuesday, July 25, 2023 @1:30 PM PST
 
+:material-video: [Streaming link](https://stanford.zoom.us/j/98097384145?pwd=ekxnWk1qdnRsK3hQdENINGt2bFJnUT09)
+
 **Michal Migurski** 
 
 ![](../images/planscore.png){ width="300"; align=right }
@@ -61,6 +63,8 @@ The 2020 decennial Census and its subsequent redistricting cycle was one of the 
 ### Lessons and stories from the Conrad Collection on Dutch Waterways
 
 :calendar_spiral: Wednesday, July 26, 2023 @9:30 AM PST
+
+:material-video: [Streaming link](https://stanford.zoom.us/j/96260137958?pwd=OWkvM0w0QWdqT1J3cFlENXpBNXM3QT09)
 
 **Brynn Kramer**
 
@@ -85,7 +89,7 @@ In 1903, [Stanford Libraries purchased the personal library of J.F.W. Conrad](ht
 
 - title: Pizza at the Farm
   image: ../images/farm.jpg
-  content: Join us for coal-fired pizza and casual conversation at the [O'Donohue Family Stanford Educational Farm](https://farm.stanford.edu), Stanford's living laboratory for hands-on learning in sustainable agriculture.
+  content: Join us for wood-fired pizza and casual conversation at the [O'Donohue Family Stanford Educational Farm](https://farm.stanford.edu), Stanford's living laboratory for hands-on learning in sustainable agriculture.
 
 ::/cards::
 
