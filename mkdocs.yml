@@ -33,6 +33,8 @@ markdown_extensions:
   - pymdownx.superfences
   - neoteroi.cards
   - neoteroi.timeline
+  - neoteroi.spantable
+  - pymdownx.magiclink
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
