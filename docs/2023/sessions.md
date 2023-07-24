@@ -12,14 +12,18 @@ Our planned sessions include lightning talks, a workshop, two keynotes, and a so
 
 :calendar_spiral: Monday, July 24, 2023 @11:00am – 12:00pm PST
 
-* Karen Majewicz - OpenGeoMetadata Updates
+:material-video: See your Eventbrite email for the Zoom link
+
+* Karen Majewicz - 10 things to know about OpenGeoMetadata Aardvark
 * Eric Larson - GeoBlacklight Admin: An OGM Aardvark Workflow Application
 * Eliot Jordan- New Data Formats for GeoBlacklight
-* Stace Maples - What going on in IIIF Maps
+* Stace Maples - What's going on in IIIF Maps
 
 ## Workshop
 
 :calendar_spiral: Monday, July 24, 2023 @1:30pm – 3:00pm PST
+
+:material-video: See your Eventbrite email for the Zoom link
 
 ### Introduction to Geospatial Raster and Vector Data with R
 
@@ -27,13 +31,18 @@ Our planned sessions include lightning talks, a workshop, two keynotes, and a so
 
 This lesson covers how to open, work with, and plot vector and raster-format spatial data in R. Additional topics include working with spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data. [Preview the workshop here.](https://ucsb-dreamlab.github.io/r-raster-vector-geospatial/)
 
-??? Info "Open to view workshop prerequisites"
+Before the workshop, please install the following: 
 
-	* Data Carpentry’s teaching is hands-on, so participants are encouraged to use their own computers to ensure the proper setup of tools for an efficient workflow. To most effectively use these materials, please make sure to download the data and install everything before working through this lesson.
-	* R Skill Level: This lesson assumes you have some knowledge of R. If you’ve never used R before, or need a refresher, start with our Introduction to R for Geospatial Data lesson.
-	* Geospatial Skill Level: This lesson assumes you have some knowledge of geospatial data types and common file formats. If you have never worked with geospatial data before, or need a refresher, start with our Introduction to Geospatial Concepts lesson.
-	* Install Software and Download Data: For installation instructions and to download the data used in this lesson, see the Geospatial Workshop Overview.
-	* Setup RStudio Project: Make sure you have set up a RStudio project for this lesson, as described in the setup instructions and that your working directory is correctly set.
+* [Download and install the latest version of R here](https://www.r-project.org/)
+* [Download and install RStudio here](https://www.rstudio.com/)
+
+In RStudio, go to Tools - Add Packages, and add the following packages: 
+
+* tidyverse 
+* dplyr
+* sf
+* terra
+
 
 ----------------------------------
 
@@ -43,7 +52,7 @@ This lesson covers how to open, work with, and plot vector and raster-format spa
 
 :calendar_spiral: Tuesday, July 25, 2023 @1:30 PM PST
 
-:material-video: [Streaming link](https://stanford.zoom.us/j/98097384145?pwd=ekxnWk1qdnRsK3hQdENINGt2bFJnUT09)
+:material-video: [Open streaming link](https://stanford.zoom.us/j/98097384145?pwd=ekxnWk1qdnRsK3hQdENINGt2bFJnUT09)
 
 **Michal Migurski** 
 
@@ -64,7 +73,7 @@ The 2020 decennial Census and its subsequent redistricting cycle was one of the 
 
 :calendar_spiral: Wednesday, July 26, 2023 @9:30 AM PST
 
-:material-video: [Streaming link](https://stanford.zoom.us/j/96260137958?pwd=OWkvM0w0QWdqT1J3cFlENXpBNXM3QT09)
+:material-video: [Open streaming link](https://stanford.zoom.us/j/96260137958?pwd=OWkvM0w0QWdqT1J3cFlENXpBNXM3QT09)
 
 **Brynn Kramer**
 
