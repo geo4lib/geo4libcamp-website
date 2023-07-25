@@ -14,7 +14,7 @@ hide:
 
 ### Aardvark
 
-Aardvark is the name of the latest version of the GeoBlacklight Metadata Schema. Read more at on the OpenGeoMetadata website: [https://opengeometadata.org/ogm-aardvark](https://opengeometadata.org/ogm-aardvark)
+Aardvark is the name of the latest version of the GeoBlacklight Metadata Schema. Read more on the OpenGeoMetadata website: [https://opengeometadata.org/ogm-aardvark](https://opengeometadata.org/ogm-aardvark)
 
 ### Accessioning
 
@@ -58,25 +58,25 @@ A tabular file or database of the information associated with features or cells 
 
 ### Blacklight
 
-Blacklight is an open source discovery platform framework on which GeoBlacklight is based. It is a customizable Ruby on Rails Engine which provides a basic interface (search box, facet constraints, etc.) for searching an Apache Solr index. Heterogenous data discovery is supported, but not geospatial. http://projectblacklight.org/
+Blacklight is an open-source discovery platform framework on which GeoBlacklight is based. It is a customizable Ruby on Rails Engine which provides a basic interface (search box, facet constraints, etc.) for searching an Apache Solr index. http://projectblacklight.org/
 
 ### Bounding box
 
-A bounding box delineates the geographic extent of a given spatial dataset, and is typically concieved as the smallest hypothetical rectangle that would fully enclose the features of a spatial dataset. It is defined by four coordinates: the hypothetical rectangle&glossary/#39;s minimum longitude, minimum latitude, maximum longitude, and maximum latitude. These coordinates correspond, respectively, with the hypothetical rectangle&glossary/#39;s leftmost line, its bottom, its rightmost line, and its top. A dataset&glossary/#39;s bounding box is an important component of geospatial metadata. Note that it is often also referred to as an envelope. https://wiki.openstreetmap.org/Bounding_Box
+A bounding box delineates the geographic extent of a given spatial dataset and is typically conceived as the smallest hypothetical rectangle that would fully enclose the features of a spatial dataset. It is defined by four coordinates: the hypothetical rectangle's minimum longitude, minimum latitude, maximum longitude, and maximum latitude. These coordinates correspond, respectively, with the hypothetical rectangle's leftmost line, its bottom, its rightmost line, and its top. A dataset's bounding box is an important component of geospatial metadata. Note that it is often also referred to as an envelope. https://wiki.openstreetmap.org/Bounding_Box
 
 ### CKAN (Comprehensive Knowledge Archive Network)
 
-An open source data platform that can be used for geospatial data. https://ckan.org/
+An open-source data platform that can be used for geospatial data. https://ckan.org/
 
 ### Cloud Optimized GeoTiffs
 
-A regular GeoTIFF that is internally organized so that it can be hosted and accessed on a HTTP server, meaning users can work with specific portions of images they request https://www.cogeo.org/
+A Cloud Optimized GeoTiff (COG) is a regular GeoTIFFs that is internally organized so that it can be hosted and accessed on an HTTP server, meaning users can work with specific portions of images they request https://www.cogeo.org/
 
 ### Controlled vocabulary and authorities
 
 Controlled vocabularies are standardized and organized arrangements of words and phrases and provide a consistent way to describe data. Metadata creators assign terms from vocabularies to improve information retrieval. Geospatial controlled vocabulary example: ISO 19115 Topic Categories
 
-Authority records are a type of controlled vocabulary that exist in an index (called an authority file) for the purpose of controlling headings used in a catalog or repository. This process is called authority control. Example: the Library of Congress Name Authority File \ https://guides.lib.utexas.edu/metadata-basics/controlled-vocab
+Authority records are a type of controlled vocabulary that exists in an index (called an authority file) for the purpose of controlling headings used in a catalog or repository. This process is called authority control. Example: the Library of Congress Name Authority File \ https://guides.lib.utexas.edu/metadata-basics/controlled-vocab
 
 ### Coverage
 
@@ -84,15 +84,15 @@ A deprecated proprietary format from Esri that can store multiple spatial geomet
 
 ### Data Licenses
 
-Legals statements defining permissions and sharing. https://creativecommons.org/licenses/by/4.0/ https://opendatacommons.org/
+Legal statements defining permissions and sharing. https://creativecommons.org/licenses/by/4.0/ https://opendatacommons.org/
 
 ### Data Rights
 
 These statements refer to access and usage specifications for datasets https://rightsstatements.org/page/1.0
 
-### Data vs Metadata
+### Data vs. Metadata
 
-Data is the content you are measuring, collecting, etc. Metadata means data about data and it refers to the information about the content, e.g. who collected it plus where, why, when, and how it was collected. Geospatial metadata describes maps, Geographic Information Systems (GIS) files, imagery, and other location-based data resources. https://www.fgdc.gov/metadata
+Data is the content you are measuring, collecting, etc. Metadata means data about data, which refers to the information about the content, e.g., who collected it plus where, why, when, and how it was collected. Geospatial metadata describes maps, Geographic Information Systems (GIS) files, imagery, and other location-based data resources. https://www.fgdc.gov/metadata
 
 ### Dublin Core
 
@@ -124,15 +124,15 @@ A gazetteer is a geographic index or dictionary to help identify a geographic lo
 
 ### GeoBlacklight
 
-Both an open source software application and the community supporting it. GeoBlacklight is a multi-institutional, open source discovery software application for geospatial content, including GIS data and maps. Based on the open source software project Blacklight, GeoBlacklight began in 2014 as a collaboration by MIT, Princeton, and Stanford. GeoBlacklight has since been adopted by over 25 academic libraries and cultural heritage institutions. https://geoblacklight.org/
+Both an open-source software application and the community supporting it. GeoBlacklight (GBL) is a multi-institutional discovery software application for geospatial content, including GIS data and maps. Based on the software project Blacklight, GeoBlacklight began in 2014 as a collaboration by MIT, Princeton, and Stanford. GeoBlacklight has since been adopted by over 25 academic libraries and cultural heritage institutions. https://geoblacklight.org/
 
 ### GeoBlacklight Metadata Schema
 
-The GeoBlacklight Schema is a metadata schema for geospatial resource discovery that is closely based upon Dublin Core with the addition of geospatial elements and application-specific fields.
+The GeoBlacklight Schema is a metadata schema for geospatial resource discovery that is closely based on Dublin Core with the addition of geospatial elements and application-specific fields.
 
 ### Geocoding
 
-The process of taking text-based location descriptions (such as mailing address) and converting it to geographic information, often coordinates https://guides.library.illinois.edu/Geocoding
+The process of taking text-based location descriptions (such as mailing address) and converting them to geographic information often coordinates https://guides.library.illinois.edu/Geocoding
 
 ### GeoCombine
 
@@ -140,7 +140,7 @@ A set of tools found in the OpenGeoMetadata GitHub repository that can be used f
 
 ### Geodatabase
 
-A proprietary ArcGIS file or database format that can hold multiple geometry types, spatial referenece, attributes, and behavior for data OR a generic term for a spatial database.
+A proprietary ArcGIS file or database format that can hold multiple geometry types, spatial reference, attributes, and behavior for data OR a generic term for a spatial database.
 
 ### GeoJSON
 
@@ -152,7 +152,7 @@ GeoNames is a database providing standard vocabulary for geographic place names,
 
 ### Georectification and Georeferencing
 
-(These words were once slightly different but are now used interchangeably.) The process of relating the internal coordinate system of an image to a ground system of geographic coordinates, so that the image can be used for spatial analysis of points on the Earth&glossary/#39;s surface. Georeferencing can be accomplished in a variety of software applications, including some that are browser-based, and the images are stored in a variety of formats, but GeoTIFFs and GeoPDFs are the most common. https://www.usgs.gov/faqs/what-does-georeferenced-mean?qt-news_science_products=0glossary/#qt-news_science_products
+(These words were once slightly different but are now used interchangeably.) The process of relating the internal coordinate system of an image to a ground system of geographic coordinates, so that the image can be used for spatial analysis of points on the Earth's surface. Georeferencing can be accomplished in a variety of software applications, including some that are browser-based, and the images are stored in a variety of formats, but GeoTIFFs and GeoPDFs are the most common. https://www.usgs.gov/faqs/what-does-georeferenced-mean?qt-news_science_products=0glossary/#qt-news_science_products
 
 ### Georeferenced scanned map
 
@@ -194,7 +194,7 @@ Islandora is a community that focuses on digital repository systems using stacks
 
 ### ISO 19110
 
-This is an additional, optional XML file that can be created that contains the feature catalog, a listing a dataset&glossary/#39;s attribute types along with information including definitions, descriptions, and frequencies.
+This is an additional, optional XML file that can be created that contains the feature catalog, a listing a dataset's attribute types along with information including definitions, descriptions, and frequencies.
 
 ### ISO 19115
 
@@ -256,7 +256,7 @@ A geospatial platform and community that pre-dates GeoBlacklight.
 
 ### Open-source software
 
-A software application is considered open source if its source code is freely available to users, who can expand, adapt, modify, and distribute this code as they see fit. Open source software is typically developed collaboratively; as a result, it is important to be able to systematically track changes to the codebase, and to track different versions of a project that result from these changes. Git is a version control system that facilitates collaboration on open-source projects (such as the Geoblacklight project) by allowing participants to essentially track changes and follow each others&glossary/#39; work. Github is a web platform that allows users to collaborate on open-source projects using the Git version control system. In the context of Github, a pull request is a procedure wherein someone who wishes to make changes to a project&glossary/#39;s codebase requests a member of the project team to review these proposed changes; if the reviewer approves these changes, they become incorporated (or merged) into the main codebase.
+A software application is considered open source if its source code is freely available to users, who can expand, adapt, modify, and distribute this code as they see fit. Open source software is typically developed collaboratively; as a result, it is important to be able to systematically track changes to the codebase, and to track different versions of a project that result from these changes. Git is a version control system that facilitates collaboration on open-source projects (such as the Geoblacklight project) by allowing participants to essentially track changes and follow each others' work. Github is a web platform that allows users to collaborate on open-source projects using the Git version control system. In the context of Github, a pull request is a procedure wherein someone who wishes to make changes to a project's codebase requests a member of the project team to review these proposed changes; if the reviewer approves these changes, they become incorporated (or merged) into the main codebase.
 
 ### OpenIndexMaps
 
@@ -309,11 +309,16 @@ Solr, or Apache Solr, is an open-source enterprise search platform writtin in Ja
 
 ### Spatial data infrastructure components
 
-A spatial data infrastructure is a digital apparatus (comprised of interconnected applications and repositories) that facilitates geospatial data storage, discovery, and long-term preservation. Geoblacklight is an application that allows users to discover geospatial data, access relevant metadata, preview layers, and download GIS datasets. Geoserver is an open-source server that allows for GIS data sharing; more specifically, in the context of the Geoblacklight application, it facilitates layer previews and downloads. Institutions that use Geoblacklight as a spatial data discovery platform typically also preserve these underlying datasets in the context of an institutional repository, as well as share relevant metadata through OpenGeoMetadata (a metadata repository that allows institutions to index geospatial data owned by other institutions, and hence data discoverable on their local Geoblacklight instances). There are many moving parts in a spatial data infrastructure; for a more detailed explication of these parts and how they fit together, see the narrative description authored by NYU Data Services. https://andrewbattista.github.io/geoblacklight/2018/01/09/geoblacklight-overview.html
+A spatial data infrastructure (SDR) is a digital apparatus (comprised of interconnected applications and repositories) that facilitates geospatial data storage, discovery, and long-term preservation. Geoblacklight is an application that allows users to discover geospatial data, access relevant metadata, preview layers, and download GIS datasets. Geoserver is an open-source server that allows for GIS data sharing; more specifically, in the context of the Geoblacklight application, it facilitates layer previews and downloads. Institutions that use Geoblacklight as a spatial data discovery platform typically also preserve these underlying datasets in the context of an institutional repository, as well as share relevant metadata through OpenGeoMetadata (a metadata repository that allows institutions to index geospatial data owned by other institutions, and hence data discoverable on their local Geoblacklight instances). There are many moving parts in a spatial data infrastructure; for a more detailed explication of these parts and how they fit together, see the narrative description authored by NYU Data Services. https://andrewbattista.github.io/geoblacklight/2018/01/09/geoblacklight-overview.html
 
 ### Sprints
 
 Sprints refer to an intensive period of time (usually 1-2 weeks) set aside to make significant progress on something. This is a popular concept in many software development practices, such as Scrum. The GeoBlacklight community holds sprints two times per year, and many institutions hold local sprints for their own applications. Although sprints are often thought of as for coding and development, the GeoBlacklight community follows a model in which sprints can address any type of issue, from documentation to metadata to governance and more.
+
+### tippecanoe
+
+This tool builds vector tilesets from large collections of GeoJSON features.
+https://github.com/mapbox/tippecanoe
 
 ### Un-georeferenced scanned map
 
