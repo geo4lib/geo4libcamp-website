@@ -33,23 +33,15 @@ Geo4LibCamp is structured as an unconference with suggested topics coming from t
 
 
 
+## 2023 Planning Committee
 
-### Shareable Google Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?height=1000&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showCalendars=0&mode=AGENDA&showTabs=1&showNav=1&src=Y19kNTkwZTNlNzMyMTAyOWYxYzUyMmY0NGIwNDdkNjlhMmUxNzI4N2YwYTJmYWE2NGQwM2Q0Zjg0ZmMxY2UwNzZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%230B8043" style="border-width:0" width="90%" height="1200" frameborder="0" scrolling="no"></iframe>
-
-
-!!! tip "Tips on using the shareable Google Calendar"
-   
-	* Click on an event for more details and event location.
-	* [View this calendar in full screen](https://calendar.google.com/calendar/embed?src=c_d590e3e7321029f1c522f44b047d69a2e17287f0a2faa64d03d4f84fc1ce076c%40group.calendar.google.com&ctz=America%2FLos_Angeles) (Events will be shown in time zone: Pacific Time - Los Angeles)
-	* To see events in your local time zone, add them to your calendar using **one** of these methods:
-		1. Use the "copy to my calendar" link on each event to add an individual session to your calendar.
-		2. [Open this link to add the entire schedule to your Google Calendar, ](https://calendar.google.com/calendar/u/0?cid=Y19kNTkwZTNlNzMyMTAyOWYxYzUyMmY0NGIwNDdkNjlhMmUxNzI4N2YwYTJmYWE2NGQwM2Q0Zjg0ZmMxY2UwNzZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-		3. [Download the iCal format](https://calendar.google.com/calendar/ical/c_d590e3e7321029f1c522f44b047d69a2e17287f0a2faa64d03d4f84fc1ce076c%40group.calendar.google.com/public/basic.ics)
-
-
-
+* Nick Budak (Stanford University)
+* Kimberly Durante (Stanford University)
+* Eliot Jordan (Princeton University)
+* Laura Krueger (Stanford University)
+* Stace Maples (Stanford University)
+* Karen Majewicz (University of Minnesota)
+* Reina Chano Murray (John Hopkins University)
 
 
 

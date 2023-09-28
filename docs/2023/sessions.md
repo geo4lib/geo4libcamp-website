@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# Plenary Sessions
+# 2023 Plenary Sessions
 
 Our planned sessions include lightning talks, a workshop, two keynotes, and a social event.
 
