@@ -11,20 +11,19 @@ hide:
 
 ![Geo4LibCamp-logo](images/banner.jpg){ align=left width=300px}
 
-# Join us at the 8th Annual Geo4LibCamp
+# Save the date for the 9th Annual Geo4LibCamp!
+
 *The annual conference for librarians & library technologists working with or supporting the use of maps and spatial data.*
 
-:octicons-calendar-24: July 24 -28, 2023 (8:30am-5pm PDT)
+### :octicons-calendar-24: May 20-24, 2024
 
-:octicons-location-24: Stanford University, Palo Alto, California
-	
+### :octicons-location-24: University of Minnesota, Minneapolis Minnesota
 
 
-<br>
-[Register on Eventbrite :octicons-link-external-24:](https://www.eventbrite.com/e/geo4libcamp-2023-tickets-643151833447){ .md-button } 
+!!! note ""
 
-<!--[View the tentative 2023 Agenda](2023/agenda.md)
-[Read more about Geo4LibCamp](about.md)-->
+	More information, including calls for proposals and registration coming soon.
+
 
 	
 	

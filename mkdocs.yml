@@ -48,11 +48,12 @@ plugins:
   - table-reader
   - open-in-new-tab
   
+extra:
+      generator: false
+  
   
 nav:
   - Home : index.md
-  - Agenda 2023 : 2023/agenda.md
-  - Sessions 2023 : 2023/sessions.md
   - About: about.md
   - Glossary : glossary.md
 
