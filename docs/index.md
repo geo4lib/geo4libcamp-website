@@ -5,7 +5,7 @@ hide:
 
 ---
 
-![](../images/general-banner.png){ width=100%}
+![](../images/banner-2024.png){ width=100%}
 
 <br>
 

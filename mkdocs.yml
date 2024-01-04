@@ -5,7 +5,8 @@ theme:
   logo: images/logo-no-text.jpg
   favicon: images/favicon.png
   palette:
-    - scheme: gbl-custom
+    - primary: green
+#     - scheme: gbl-custom
         
   features:
     - navigation.expand
@@ -17,12 +18,7 @@ theme:
     
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/neoteroi-mkdocs.css
-  - stylesheets/neoteroi-mkdocs.min.css
-  - stylesheets/neoteroi-timeline.css
-  - stylesheets/neoteroi-cards.css
-  - stylesheets/neoteroi-gantt.css
-  - stylesheets/neoteroi-spantable.css
+
   
 markdown_extensions:
   - attr_list
@@ -31,9 +27,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - neoteroi.cards
-  - neoteroi.timeline
-  - neoteroi.spantable
   - pymdownx.magiclink
   - pymdownx.tabbed:
       alternate_style: true
@@ -44,7 +37,7 @@ markdown_extensions:
   
       
 plugins:
-  - search
+#   - search
   - table-reader
   - open-in-new-tab
   
