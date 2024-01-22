@@ -114,5 +114,5 @@ This plugin groups text and images into grids or boxes based on simplified input
 **Publisher:**
 
 1. Accept Pull Request and merge changes to the main branch
-2. GitHub Actions will automatically push the changes to the gh-pages branch
+to do: GitHub Actions will automatically push the changes to the gh-pages branch
 
