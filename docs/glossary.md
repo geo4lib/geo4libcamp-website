@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
-
----
 
 !!! question	inline end "Have a term to add?"
 

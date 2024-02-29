@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 ![Geo4LibCamp-logo](images/banner.jpg){ align=right width=300px}
 
 ## What is Geo4LibCamp?
