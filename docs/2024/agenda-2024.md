@@ -1,6 +1,8 @@
-Our weeklong agenda will include workshops, lightning talks, a keynote, unconference sessions, and working session. Proposed lightning talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning and Aerial Photographs.
+Our weeklong agenda will include workshops, lightning talks, a keynote, unconference sessions, and working sessions. 
 
-The topics for the unconference sessions will be determined during the event.
+!!! question "What topics will we discuss?"
+
+	Proposed lightning talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning & Aerial Photographs. The topics for the unconference sessions will be determined by attendees during the event.
 
 ## Tentative Schedule
 

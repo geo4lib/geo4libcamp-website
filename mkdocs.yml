@@ -27,7 +27,7 @@ markdown_extensions:
   - def_list
   - admonition
   - toc:
-      toc_depth: 2
+      toc_depth: 3
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.magiclink
@@ -51,7 +51,7 @@ extra:
 nav:
   - Home : index.md
   - Minneapolis 2024: 
-      - 'About Minneapolis': '2024/index.md'
+      - 'Venue': '2024/index.md'
       - 'Agenda' : '2024/agenda-2024.md'
   - About: about.md
   - Glossary : glossary.md
