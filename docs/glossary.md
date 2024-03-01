@@ -321,7 +321,7 @@ A scanned map stored as an image file, such as TIFF or JPEG. The presence of coo
 
 ### Unconference
 
-Unconferences are intended to be led by participants, with discussion topics developed collaboratively at the start of the event. Unconferences feature minimal formal presentations and emphasize group discussions, knowledge sharing, and impromptu demonstrations. Geo4LibCamp is an unconference. https://adainitiative.org/2013/10/02/running-your-unconference-discussions-effectively-adacamp-session-role-cards/
+Unconferences are intended to be led by participants, with discussion topics developed collaboratively at the start of the event. Unconferences feature minimal formal presentations and emphasize group discussions, knowledge sharing, and impromptu demonstrations. Geo4LibCamp is an unconference. https://en.wikipedia.org/wiki/Unconference
 
 ### Vector
 

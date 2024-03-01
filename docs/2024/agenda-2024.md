@@ -1,8 +1,8 @@
-Our weeklong agenda will include workshops, lightning talks, a keynote, unconference sessions, and working sessions. 
+Our weeklong agenda will include Workshopss, Lightning Talks, a keynote, unconference sessions, and Working Sessions. 
 
 !!! question "What topics will we discuss?"
 
-	Proposed lightning talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning & Aerial Photographs. The topics for the unconference sessions will be determined by attendees during the event.
+	Proposed Lightning Talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning & Aerial Photographs. The topics for the unconference sessions will be determined by attendees during the event.
 
 ## Tentative Schedule
 
@@ -40,6 +40,14 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0a7q"></td>
+    <td class="tg-wa1i">Main Conference Day 1</td>
+    <td class="tg-wa1i">Main Conference Day 2</td>
+    <td class="tg-wa1i">Main Conference Day 3</td>
+    <td class="tg-wa1i">Optional Working Day 1</td>
+    <td class="tg-wa1i">Optional Working Day 2</td>
+  </tr>
+  <tr>
     <td class="tg-0a7q">8:30 AM</td>
     <td class="tg-t45z">coffee/social time (30 min)</td>
     <td class="tg-t45z">coffee/social time (30 min)</td>
@@ -51,16 +59,16 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
     <td class="tg-cly1">9:00 AM</td>
     <td class="tg-u4xi">Welcome &amp; introductions</td>
     <td class="tg-hcdt">Keynote</td>
-    <td class="tg-oz2p">unconferences</td>
+    <td class="tg-oz2p">Unconference Session</td>
     <td class="tg-4ydh">Optional trip to East View</td>
-    <td class="tg-nc4f">working session</td>
+    <td class="tg-nc4f">Working Session</td>
   </tr>
   <tr>
     <td class="tg-cly1">9:30 AM</td>
     <td class="tg-u4xi"></td>
     <td class="tg-hcdt"></td>
     <td class="tg-oz2p"></td>
-    <td class="tg-4ydh">or working session</td>
+    <td class="tg-4ydh">or Working Session</td>
     <td class="tg-nc4f"></td>
   </tr>
   <tr>
@@ -81,11 +89,11 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
   </tr>
   <tr>
     <td class="tg-cly1">11:00 AM</td>
-    <td class="tg-hcdt">Lightning talks</td>
-    <td class="tg-hcdt">Lightning talks</td>
-    <td class="tg-oz2p">unconferences</td>
+    <td class="tg-hcdt">Lightning Talks</td>
+    <td class="tg-hcdt">Lightning Talks</td>
+    <td class="tg-oz2p">Unconference Session</td>
     <td class="tg-ve35"></td>
-    <td class="tg-nc4f">working session</td>
+    <td class="tg-nc4f">Working Session</td>
   </tr>
   <tr>
     <td class="tg-cly1">11:30 AM</td>
@@ -121,11 +129,11 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
   </tr>
   <tr>
     <td class="tg-cly1">1:30 PM</td>
-    <td class="tg-uqso">Workshop</td>
-    <td class="tg-oz2p">Unconference pitches</td>
-    <td class="tg-oz2p">unconferences</td>
-    <td class="tg-nc4f">working session</td>
-    <td class="tg-nc4f">working session</td>
+    <td class="tg-uqso">Workshops</td>
+    <td class="tg-oz2p">Unconference Pitches and Planning</td>
+    <td class="tg-oz2p">Unconference Session</td>
+    <td class="tg-nc4f">Working Session</td>
+    <td class="tg-nc4f">Working Session</td>
   </tr>
   <tr>
     <td class="tg-cly1">2:00 PM</td>
@@ -141,7 +149,7 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
     <td class="tg-oz2p"></td>
     <td class="tg-oz2p"></td>
     <td class="tg-nc4f"></td>
-    <td class="tg-u4xi">wrap up session</td>
+    <td class="tg-u4xi">Final Wrap-up Session</td>
   </tr>
   <tr>
     <td class="tg-cly1">3:00 PM</td>
@@ -153,10 +161,10 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
   </tr>
   <tr>
     <td class="tg-cly1">3:30 PM</td>
-    <td class="tg-uqso">Workshop</td>
-    <td class="tg-oz2p">unconferences</td>
-    <td class="tg-oz2p">unconferences</td>
-    <td class="tg-nc4f">working session</td>
+    <td class="tg-uqso">Workshops</td>
+    <td class="tg-oz2p">Unconference Session</td>
+    <td class="tg-oz2p">Unconference Session</td>
+    <td class="tg-nc4f">Working Session</td>
     <td class="tg-ve35"></td>
   </tr>
   <tr>
@@ -171,7 +179,7 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
     <td class="tg-cly1">4:30 PM</td>
     <td class="tg-uqso"></td>
     <td class="tg-oz2p"></td>
-    <td class="tg-oz2p"></td>
+    <td class="tg-u4xi">Main Conference Wrap-up Session</td>
     <td class="tg-nc4f"></td>
     <td class="tg-ve35"></td>
   </tr>
