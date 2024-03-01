@@ -4,7 +4,7 @@
 
 ## Conference Venue
 
-The unconference will be held on the University of Minnesota, Minneapolis campus in the [Elmer L. Andersen Library](https://www.lib.umn.edu/spaces/andersen), which is home to the University's Archives and Special Collections Department. Andersen Library is located at the western end of the Washington Avenue Pedestrian Bridge.
+Geo4LibCamp 2024 will be held at the University of Minnesota, Minneapolis campus. Our scheduled activities will take place in the [Elmer L. Andersen Library](https://www.lib.umn.edu/spaces/andersen), which is home to the University's Archives and Special Collections Department. Andersen Library is located at the western end of the Washington Avenue Pedestrian Bridge.
 
 ## Accomodations
 
