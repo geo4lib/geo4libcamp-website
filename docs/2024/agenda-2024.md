@@ -1,4 +1,4 @@
-Our weeklong agenda will include Workshopss, Lightning Talks, a keynote, unconference sessions, and Working Sessions. 
+Our weeklong agenda will include workshops, lightning talks, a keynote, unconference sessions, and working sessions. 
 
 !!! question "What topics will we discuss?"
 

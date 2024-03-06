@@ -6,7 +6,7 @@ theme:
   favicon: images/favicon.png
   palette:
     - primary: green
-#     - scheme: gbl-custom
+    - accent: deep purple
         
   features:
     - navigation.expand
@@ -19,6 +19,7 @@ theme:
     
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/neoteroi-mkdocs.css
 
   
 markdown_extensions:
@@ -26,8 +27,9 @@ markdown_extensions:
   - md_in_html
   - def_list
   - admonition
+  - neoteroi.cards
   - toc:
-      toc_depth: 3
+      toc_depth: 2
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.magiclink

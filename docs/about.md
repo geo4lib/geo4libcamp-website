@@ -1,4 +1,4 @@
-![Geo4LibCamp-logo](images/banner.jpg){ align=right width=300px}
+![Geo4LibCamp-logo](images/full-logo.jpg){ align=right width=300px}
 
 ## What is Geo4LibCamp?
 
@@ -33,4 +33,4 @@ Geo4LibCamp typically features a mix of presentations, workshops, and small grou
 - [6th annual Geo4LibCamp moves online with record attendence](https://web.archive.org/web/20210305164026/https://library.stanford.edu/blogs/digital-library-blog/2021/02/6th-annual-geo4libcamp-moves-online-record-attendence)
 
 ## Code of Conduct
-Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, or social media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.

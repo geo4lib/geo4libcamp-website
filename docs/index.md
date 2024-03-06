@@ -4,24 +4,31 @@ hide:
   - toc
 
 ---
+<style>
 
-![](../images/banner-2024.png){ width=100%}
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
 
-<br>
+</style>
 
-![Geo4LibCamp-logo](images/banner.jpg){ align=left width=300px}
+<figure markdown="span">
+  ![geo4libcamp logo](images/full-logo.jpg){ width=100% }
+  <figcaption>The annual conference for librarians & library technologists working with or supporting the use of maps and spatial data.</figcaption>
+  [Register for Geo4LibCamp 2024 :octicons-link-external-24:](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=45702457){ .md-button}
+</figure>
 
-# Save the date for the 9th Annual Geo4LibCamp!
+<div style="text-align: center;">
+  <h2><a href="2024/index.md">Join us at the 9th Annual Geo4LibCamp!</a></h2>
+  <h2>May 20-24, 2024 | University of Minnesota, Minneapolis</h2>
+</div>
 
-*The annual conference for librarians & library technologists working with or supporting the use of maps and spatial data.*
 
-### :octicons-calendar-24: May 20-24, 2024
 
-### :octicons-location-24: University of Minnesota, Minneapolis
 
-!!! note ""
 
-	More information, including calls for proposals and registration coming soon.
+
 
 
 	
