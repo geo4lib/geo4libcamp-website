@@ -30,31 +30,25 @@ h6 {
 .md-typeset h2 {
   font-size: 1.75em;
   font-weight: 400;
-  color: #46914e;
+
      }
      
 
 .md-typeset h3 {
-  font-size: 1.5em; }
-
-/* 
-.md-typeset h4 {
-  font-size: 1.25em; }
-
-.md-typeset h5 {
-  font-size: 1em; }
-
-.md-typeset h6 {
-  font-size: 1em; }
-
-.md-typeset p {
-  margin: 0 0 0.75em; 
-  font-size: 1.1em; 
+  font-size: 1.5em; 
+  color: #46914e;
   }
- */
+  
+  .md-typeset h4 {
+  font-size: 1.3em; 
+  }
   
 .md-typeset  li {
-  font-size: 1em; 
+  font-size: 1.2em; 
+  }
+  
+  .md-typeset  p {
+  font-size: 1.2em; 
   }
   
   .md-typeset a {
@@ -62,8 +56,26 @@ h6 {
   text-decoration: underline;
   text-decoration-thickness: .02em;
   text-underline-offset: 1.5px;
-  text-decoration-skip-ink: auto; /* this is the default anyway */
   }
+  
+/* Main Content Styles */
+
+/* 
+.md-content {
+      font-size:1.1em;
+      border-left: 1px solid #e7e7e7;
+      background-color: #fff;
+      min-height: 100vh;
+      padding-right: 60px
+}
+ */
+
+.md-grid {
+      /* Set width of page content */
+      max-width: 90%; 
+}
+  
+
   
 /* youtube video icon color */
 .video {
@@ -76,20 +88,25 @@ h6 {
 }
 
 .md-typeset .md-button {
-      border: .1rem solid;
-      border-radius: .25rem;
-      background-color: #4892EC;
-      color: #fff;
+      border-radius: 1rem; 
+      border-color: #FFC107;
+      background-color: #FFC107;
+      color: #000;
+      font-size: 1.25em;
+      text-decoration: none;
       cursor: pointer;
       display: inline-block;
-      font-weight: 700;
+      font-weight: 500;
       padding: .625e;
 }
 
+/* 
 .md-typeset .md-button:hover {
-      background-color: #166bd2;
-      border-color: #4892EC;
+      background-color: #F57C00;
+      border-color: #F57C00;
+      color: #000;
 }
+ */
 
 /* HEADER ITEMS */
 /* set the colors and size of the site title in the banner */
@@ -144,11 +161,6 @@ h6 {
       background-color: transparent !important;
 }
 
-/* 
-.md-nav__title {
-   display: none;
-   }
- */
 
 
 .md-nav__link  {
@@ -156,14 +168,6 @@ h6 {
   }
 
 
-/* FOOTER */
-/* hide navigation arrows */
-/* 
-.md-footer__inner:not([hidden]) {
-    display: none
-}
- */
- 
 
 /* table reader */
 
