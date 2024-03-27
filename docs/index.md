@@ -20,7 +20,7 @@ hide:
 </figure>
 
 <div style="text-align: center;">
-  <h2><a href="2024/index.md">Join us at the 9th Annual Geo4LibCamp!</a></h2>
+  <h2><a href="2024">Join us at the 9th Annual Geo4LibCamp!</a></h2>
   <h2>May 20-24, 2024 | University of Minnesota, Minneapolis</h2>
 </div>
 

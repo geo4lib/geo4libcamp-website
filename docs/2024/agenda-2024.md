@@ -3,6 +3,28 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
 !!! question "What topics will we discuss?"
 
 	Proposed Lightning Talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning & Aerial Photographs. The topics for the unconference sessions will be determined by attendees during the event.
+	
+## Workshops
+
+Choose from one of the following workshops which will be offered on the afternoon of Monday, May 20th:
+
+### Workshop 1: GeoBlacklight and Geospatial Metadata
+
+**Part 1: GeoBlacklight for Beginners ---- Advanced GeoBlacklight: Voyaging Beyond Core**
+
+An introduction to the GeoBlacklight software with guided techniques for installation and customization.
+
+**Part 2: Medley of Metadata Workflows**
+
+Creating geospatial metadata for GeoBlacklight using a variety of techniques from manual cataloging to batch harvesting to python scripting.
+
+### Workshop 2: Spatial Data Support Bootcamp
+
+This workshop will focus on information & skills for licensing and supporting enterprise accounts on Google Earth Engine and Planet.com. The focus will be on basic user skills, support resources and enterprise organization administration
+
+* **Google Earth Engine** - Free for research and non-profit organizations, GEE is becoming the default platform for accessing, and analyzing Earth observation data. With over 70 petabytes of data across 600+ datasets (many updated in near real-time), and the power of Google Cloud Platform for processing, Google Earth Engine is currently the “Best in Class” for working with satellite imagery at global scales.
+* **Planet.com** - With Planetscope, the 3m resolution, multi-spectral image of the Earth, every day, SkySat Tasking and Archive, Planet.com is a research-ready Earth observation data stream and platform that has assembled a cost-effective Enterprise Education & Research Tier. With access through a browser-based Explorer, APIs and third-party integrations (QGIS, ArcGIS & Google Earth Engine) the Planet data ecosystem serves a broad range of applications, and technical expertise. 
+
 
 ## Tentative Schedule
 
