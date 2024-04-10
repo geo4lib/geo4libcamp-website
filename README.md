@@ -107,7 +107,5 @@ This command will install all the necessary modules for the mkdocs platform and 
 **Publisher:**
 
 1. Accept Pull Request and merge changes to the main branch
-2. Use the `mkdocs gh-deploy` command to publish the changes to the gh-pages branch
-   
-to do: Update GitHub Actions will automatically push the changes to the gh-pages branch
+2. GitHub Actions will automatically push the changes to the gh-pages branch
 
