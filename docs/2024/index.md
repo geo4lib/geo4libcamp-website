@@ -102,7 +102,6 @@ Minneapolis is a vibrant and diverse city in the traditional homelands of the Da
 *   [Hard Times Cafe](https://www.facebook.com/hardtimescafe/)
 *   [The Market at Malcolm Yards](https://malcolmyards.market/)
 *   [Afro Deli](https://www.afrodeli.com)
-
 *   [Surly Brewing Company](https://surlybrewing.com/)
 *   [O'Shaughnessy Distilling Co.](https://osdistilling.com/home/)
 *   [Palmer's Bar](https://palmers-bar.com/home)

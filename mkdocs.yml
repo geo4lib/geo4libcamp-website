@@ -42,9 +42,9 @@ markdown_extensions:
   
       
 plugins:
-#   - search
+  - search
   - table-reader
-  - open-in-new-tab
+#   - open-in-new-tab
   
 extra:
       generator: false
