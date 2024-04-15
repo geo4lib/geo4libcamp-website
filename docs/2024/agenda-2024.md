@@ -4,6 +4,21 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
 
 	Proposed Lightning Talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning & Aerial Photographs. The topics for the unconference sessions will be determined by attendees during the event.
 	
+## Keynote Speaker
+
+### Bridging the Need Gap: Designing a Digital Social Care Referral Platform to Addresses Health-Related Social Needs
+
+![](../images/haynes.jpg){ align=left } 
+
+
+**Dr. David Haynes**
+
+Assistant Professor; Institute for Health Informatics; Masters in GIS Faculty; Director of the [ISRDI Diversity Fellowship](https://isrdi.umn.edu/diversity-fellowship-program); University of Minnesota
+
+Dr. Haynes is a broadly trained health geographer who uses spatial analysis methods to advance our knowledge of health and cancer disparities. He uses his GIScience and big geospatial computation expertise to understand spatial-temporal patterns of population health and cancer disparities. He also employs community-based participatory methods to develop Health Information Technology to answer substantive research questions about health disparities and cancer disparities.
+
+<br clear="left"/>
+	
 ## Workshop
 
 The following workshop will be offered on the afternoon of Monday, May 20th:
