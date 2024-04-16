@@ -6,7 +6,7 @@ Our weeklong agenda will include workshops, lightning talks, a keynote, unconfer
 	
 ## Keynote Speaker
 
-### Bridging the Need Gap: Designing a Digital Social Care Referral Platform to Addresses Health-Related Social Needs
+### Bridging the Need Gap: Designing a Digital Social Care Referral Platform to Address Health-Related Social Needs
 
 ![](../images/haynes.jpg){ align=left } 
 
