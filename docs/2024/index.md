@@ -22,19 +22,17 @@ Geo4LibCamp 2024 will be held at the University of Minnesota, Minneapolis campus
 
 <br clear="left"/>
 
+## Registration Fee 
+
+The registration fee will be used to provide three catered lunches on Monday, Tuesday, and Wednesday. Attendees will also receive a complimentary event T-shirt.
+
 ## Accomodations
+
+We are reserving a limited number of rooms in our conference hotel. 
 
 !!! warning "Hotel reservation deadline" 
 
-	Register by **April 28, 2024** to access the conference discount for reserved hotel blocks. The event discount code for these hotels will be sent to you **after** you register for the conference.
-
-We are reserving discounts for a limited number of rooms in two conference hotels. 
-
-**[Courtyard by Marriott Minneapolis Downtown](https://www.marriott.com/en-us/hotels/mspdc-courtyard-minneapolis-downtown/rooms/)**
-
-* 1500 Washington Ave S, Minneapolis, MN 55454
-* $149 + tax per night
-* Cutoff Date: 4/28/2024
+	Register by **April 29, 2024** to access the conference discount for reserved hotel blocks. The event discount code will be sent to you **after** you register for the conference.
 
 **[Graduate Minneapolis, 615 Washington Ave SE](https://graduatehotels.com/minneapolis/)**
 
