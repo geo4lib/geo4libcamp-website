@@ -19,17 +19,15 @@ Dr. Haynes is a broadly trained health geographer who uses spatial analysis meth
 
 <br clear="left"/>
 	
-## Workshop
+## Workshops
 
-The following workshop will be offered on the afternoon of Monday, May 20th:
+Two workshops will be offered concurrently on the afternoon of Monday, May 20th. Choose one:
 
-### GeoBlacklight and Geospatial Metadata
-
-**Part 1: GeoBlacklight for Beginners ---- Advanced GeoBlacklight: Voyaging Beyond Core**
+### GeoBlacklight for Beginners ---- Advanced GeoBlacklight: Voyaging Beyond Core
 
 An introduction to the GeoBlacklight software with guided techniques for installation and customization.
 
-**Part 2: Medley of Metadata Workflows**
+### Medley of Metadata Workflows
 
 Creating geospatial metadata for GeoBlacklight using a variety of techniques from manual cataloging to batch harvesting to python scripting.
 
@@ -88,9 +86,9 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   <tr>
     <td class="tg-cly1">9:00 AM</td>
     <td class="tg-u4xi">Welcome &amp; introductions</td>
-    <td class="tg-hcdt">Keynote</td>
+    <td class="tg-hcdt">Keynote Talk with Dr. David Haynes</td>
     <td class="tg-oz2p">Unconference Session</td>
-    <td class="tg-4ydh">Optional trip to East View</td>
+    <td class="tg-4ydh"><a href="https://geospatial.com">Field trip to East View Geospatial</a></td>
     <td class="tg-nc4f">Working Session</td>
   </tr>
   <tr>
@@ -98,7 +96,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
     <td class="tg-u4xi"></td>
     <td class="tg-hcdt"></td>
     <td class="tg-oz2p"></td>
-    <td class="tg-4ydh">or Working Session</td>
+    <td class="tg-4ydh"> or Optional Working Session</td>
     <td class="tg-nc4f"></td>
   </tr>
   <tr>
@@ -114,7 +112,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
     <td class="tg-tdoa">break (30 min)</td>
     <td class="tg-tdoa">break (30 min)</td>
     <td class="tg-tdoa">break (30 min)</td>
-    <td class="tg-tdoa">break (30 min)</td>
+    <td class="tg-4ydh"></td>
     <td class="tg-tdoa">break (30 min)</td>
   </tr>
   <tr>
@@ -122,7 +120,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
     <td class="tg-hcdt">Lightning Talks</td>
     <td class="tg-hcdt">Lightning Talks</td>
     <td class="tg-oz2p">Unconference Session</td>
-    <td class="tg-ve35"></td>
+    <td class="tg-4ydh"></td>
     <td class="tg-nc4f">Working Session</td>
   </tr>
   <tr>
@@ -130,7 +128,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
     <td class="tg-hcdt"></td>
     <td class="tg-hcdt"></td>
     <td class="tg-oz2p"></td>
-    <td class="tg-ve35"></td>
+    <td class="tg-4ydh"></td>
     <td class="tg-nc4f"></td>
   </tr>
   <tr>
@@ -159,15 +157,15 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   </tr>
   <tr>
     <td class="tg-cly1">1:30 PM</td>
-    <td class="tg-uqso">Workshops</td>
     <td class="tg-oz2p">Unconference Pitches and Planning</td>
+    <td class="tg-oz2p">Unconference Session</td>
     <td class="tg-oz2p">Unconference Session</td>
     <td class="tg-nc4f">Working Session</td>
     <td class="tg-nc4f">Working Session</td>
   </tr>
   <tr>
     <td class="tg-cly1">2:00 PM</td>
-    <td class="tg-uqso"></td>
+    <td class="tg-oz2p"></td>
     <td class="tg-oz2p"></td>
     <td class="tg-oz2p"></td>
     <td class="tg-nc4f"></td>
@@ -175,7 +173,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   </tr>
   <tr>
     <td class="tg-cly1">2:30 PM</td>
-    <td class="tg-uqso"></td>
+    <td class="tg-oz2p"></td>
     <td class="tg-oz2p"></td>
     <td class="tg-oz2p"></td>
     <td class="tg-nc4f"></td>
@@ -212,6 +210,14 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
     <td class="tg-u4xi">Main Conference Wrap-up Session</td>
     <td class="tg-nc4f"></td>
     <td class="tg-ve35"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Evening</td>
+    <td class="tg-4ydh">Informal social time - Happy hour</td>
+    <td class="tg-4ydh">Group dinner at <a href="https://surlybrewing.com/beer-hall-and-beer-garden/">Surly Brewing</a></td>
+    <td class="tg-4ydh">Informal social time - Happy hour</td>
+    <td class="tg-4ydh"></td>
+    <td class="tg-4ydh"></td>
   </tr>
 </tbody>
 </table>
