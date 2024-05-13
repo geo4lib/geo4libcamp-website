@@ -1,38 +1,6 @@
 Our weeklong agenda will include workshops, lightning talks, a keynote, unconference sessions, and working sessions. 
 
-!!! question "What topics will we discuss?"
-
-	Proposed Lightning Talks so far range from GeoBlacklight development to OpenIndexMaps to Ephemeral Geodata to Deep Learning & Aerial Photographs. The topics for the unconference sessions will be determined by attendees during the event.
-	
-## Keynote Speaker
-
-### Bridging the Need Gap: Designing a Digital Social Care Referral Platform to Address Health-Related Social Needs
-
-![](../images/haynes.jpg){ align=left } 
-
-
-**Dr. David Haynes**
-
-Assistant Professor; Institute for Health Informatics; Masters in GIS Faculty; Director of the [ISRDI Diversity Fellowship](https://isrdi.umn.edu/diversity-fellowship-program); University of Minnesota
-
-Dr. Haynes is a broadly trained health geographer who uses spatial analysis methods to advance our knowledge of health and cancer disparities. He uses his GIScience and big geospatial computation expertise to understand spatial-temporal patterns of population health and cancer disparities. He also employs community-based participatory methods to develop Health Information Technology to answer substantive research questions about health disparities and cancer disparities.
-
-<br clear="left"/>
-	
-## Workshops
-
-Two workshops will be offered concurrently on the afternoon of Monday, May 20th. Choose one:
-
-### GeoBlacklight for Beginners ---- Advanced GeoBlacklight: Voyaging Beyond Core
-
-An introduction to the GeoBlacklight software with guided techniques for installation and customization.
-
-### Medley of Metadata Workflows
-
-Creating geospatial metadata for GeoBlacklight using a variety of techniques from manual cataloging to batch harvesting to python scripting.
-
-
-## Tentative Schedule
+## Schedule
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -102,7 +70,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   <tr>
     <td class="tg-cly1">10:00 AM</td>
     <td class="tg-u4xi"></td>
-    <td class="tg-hcdt"></td>
+    <td class="tg-tdoa">break (30 min)</td>
     <td class="tg-oz2p"></td>
     <td class="tg-4ydh"></td>
     <td class="tg-nc4f"></td>
@@ -110,7 +78,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   <tr>
     <td class="tg-cly1">10:30 AM</td>
     <td class="tg-tdoa">break (30 min)</td>
-    <td class="tg-tdoa">break (30 min)</td>
+    <td class="tg-hcdt">Lightning Talks</td>
     <td class="tg-tdoa">break (30 min)</td>
     <td class="tg-4ydh"></td>
     <td class="tg-tdoa">break (30 min)</td>
@@ -118,7 +86,7 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   <tr>
     <td class="tg-cly1">11:00 AM</td>
     <td class="tg-hcdt">Lightning Talks</td>
-    <td class="tg-hcdt">Lightning Talks</td>
+    <td class="tg-hcdt"></td>
     <td class="tg-oz2p">Unconference Session</td>
     <td class="tg-4ydh"></td>
     <td class="tg-nc4f">Working Session</td>
@@ -221,3 +189,48 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
   </tr>
 </tbody>
 </table>
+
+## Keynote Speaker
+
+### Bridging the Need Gap: Designing a Digital Social Care Referral Platform to Address Health-Related Social Needs
+
+![](../images/haynes.jpg){ align=left } 
+
+
+**Dr. David Haynes**
+
+Assistant Professor; Institute for Health Informatics; Masters in GIS Faculty; Director of the [ISRDI Diversity Fellowship](https://isrdi.umn.edu/diversity-fellowship-program); University of Minnesota
+
+Dr. Haynes is a broadly trained health geographer who uses spatial analysis methods to advance our knowledge of health and cancer disparities. He uses his GIScience and big geospatial computation expertise to understand spatial-temporal patterns of population health and cancer disparities. He also employs community-based participatory methods to develop Health Information Technology to answer substantive research questions about health disparities and cancer disparities.
+
+<br clear="left"/>
+	
+## Workshops
+
+Two workshops will be offered concurrently on the afternoon of Monday, May 20th. Choose one:
+
+### GeoBlacklight for Beginners ---- Advanced GeoBlacklight: Voyaging Beyond Core
+
+An introduction to the GeoBlacklight software with guided techniques for installation and customization.
+
+### Medley of Metadata Workflows
+
+Creating geospatial metadata for GeoBlacklight using a variety of techniques from manual cataloging to batch harvesting to python scripting.
+
+## Lightning Talks
+
+### Monday
+
+* Open-Source Georeferencing and Curating with Allmaps - Stephen Appel
+* Blacklight::Allmaps Plugin - Eric Larson
+* Ephemeral Geospatial Data: An Impending Dark Age - Karen Majewicz
+* GeoServer and You: Or how I learned to stop worrying and ask Eliot to fix our ‘talk to GeoServer’ problems - Maura Carbone
+ 
+### Tuesday
+
+* Enhancing Access to Digital Aerial Photography at the University of Wisconsin-Madison - Jaime Martindale and Jim Lacy
+* What is the National Geospatial Advisory Committee? - Ryan Mattke
+* The UC approach: Single code base, separate deployments - Amy Work and Tom Brittnacher
+* Using Aardvark to Drive Public Health Data Discovery - Adam Cox
+* Using Text Recognition to Georeference Aerial Photos?  - Kevin Dyke
+
