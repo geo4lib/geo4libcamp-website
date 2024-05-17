@@ -211,11 +211,25 @@ Two workshops will be offered concurrently on the afternoon of Monday, May 20th.
 
 ### GeoBlacklight for Beginners ---- Advanced GeoBlacklight: Voyaging Beyond Core
 
-An introduction to the GeoBlacklight software with guided techniques for installation and customization.
+An introduction to the GeoBlacklight software with guided techniques for installation and customization. This workshop is for anyone interested in learning more about GeoBlacklight, including current and new users.
+
+**Requirements**: To run GeoBlacklight locally, you will need the following:
+
+* Ruby 
+* Ruby on Rails
+* Java - Apache Solr runs on Java 11 or greater.
+
+Follow the [GoRails Setup](https://gorails.com/setup) steps to install a Ruby on Rails environment. [Homebrew](https://brew.sh/) can help you install Java on macOS or Windows Subsystem for Linux.
 
 ### Medley of Metadata Workflows
 
-Creating geospatial metadata for GeoBlacklight using a variety of techniques from manual cataloging to batch harvesting to python scripting.
+This workshop will provide a walkthrough of several techniques for creating and transforming geospatial metadata. We will cover methods ranging from from manual cataloging to batch harvesting and Python scripting. Participants will work with XML, JSON, and CSV formats, learning how to convert between ISO 191*, DCAT, and OGM Aardvark (GeoBlacklight) metadata frameworks.
+
+**Requirements**. We will be using the following tools and libraries for this workshop:
+
+* GDAL: https://pypi.org/project/GDAL/
+* Jupyter Notebook: https://jupyter.org/install
+* Pandas: https://pandas.pydata.org/getting_started.html
 
 ## Lightning Talks
 
@@ -223,8 +237,9 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
 
 * Open-Source Georeferencing and Curating with Allmaps - Stephen Appel
 * Blacklight::Allmaps Plugin - Eric Larson
-* Ephemeral Geospatial Data: An Impending Dark Age - Karen Majewicz
 * GeoServer and You: Or how I learned to stop worrying and ask Eliot to fix our ‘talk to GeoServer’ problems - Maura Carbone
+* Ephemeral Geospatial Data: An Impending Dark Age - Karen Majewicz
+
  
 ### Tuesday
 
@@ -233,4 +248,5 @@ Creating geospatial metadata for GeoBlacklight using a variety of techniques fro
 * The UC approach: Single code base, separate deployments - Amy Work and Tom Brittnacher
 * Using Aardvark to Drive Public Health Data Discovery - Adam Cox
 * Using Text Recognition to Georeference Aerial Photos?  - Kevin Dyke
+* OpenIndexMaps for 19th-century atlases of the upper Mississippi River - Owen Connolly
 
