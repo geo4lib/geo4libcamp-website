@@ -243,10 +243,14 @@ This workshop will provide a walkthrough of several techniques for creating and 
  
 ### Tuesday
 
-* Enhancing Access to Digital Aerial Photography at the University of Wisconsin-Madison - Jaime Martindale and Jim Lacy
-* What is the National Geospatial Advisory Committee? - Ryan Mattke
-* The UC approach: Single code base, separate deployments - Amy Work and Tom Brittnacher
-* Using Aardvark to Drive Public Health Data Discovery - Adam Cox
-* Using Text Recognition to Georeference Aerial Photos?  - Kevin Dyke
-* OpenIndexMaps for 19th-century atlases of the upper Mississippi River - Owen Connolly
+**Presentation:** Enhancing Access to Digital Aerial Photography at the University of Wisconsin-Madison - Jaime Martindale and Jim Lacy
+
+**Lightning Talks**
+
+1. OpenIndexMaps for 19th-century atlases of the upper Mississippi River - Owen Connolly
+1. What is the National Geospatial Advisory Committee? - Ryan Mattke
+1. The UC approach: Single code base, separate deployments - Amy Work and Tom Brittnacher
+1. Using Aardvark to Drive Public Health Data Discovery - Adam Cox
+1. Using Text Recognition to Georeference Aerial Photos?  - Kevin Dyke
+
 
