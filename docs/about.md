@@ -13,16 +13,6 @@ Geo4LibCamp typically features a mix of presentations, workshops, and small grou
 * Geospatial data resources in support of research and education
 
 
-## Past Events
-- [2023](2023/agenda.md)
-- [2022](2022.md) 
-- [2021](2021.md) 
-- [2020](2020.md) 
-- [2019](https://geo4libcamp2019.sched.com) 
-- [2018](https://geo4libcamp2018.sched.com) 
-- [2017](https://geo4libcamp2017.sched.com)
-- [2016](https://geo4libcamp2016.sched.com)
-
 ## Read more
 - [Inaugural Geo4LibCamp forges new collaborations](https://web.archive.org/web/20230605173859/https://library.stanford.edu/blogs/digital-library-blog/2016/02/inaugural-geo4libcamp-forges-new-collaborations)
 - [A productive week at Geo4LibCamp 2017](https://web.archive.org/web/20230705192207/https://library.stanford.edu/blogs/digital-library-blog/2017/02/productive-week-geo4libcamp-2017)

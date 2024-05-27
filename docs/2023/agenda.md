@@ -1,7 +1,6 @@
 ---
 hide:
-  - navigation
-  - toc
+
 ---
 
 # Geo4LibCamp Unconference Agenda 2023
