@@ -18,7 +18,7 @@ hide:
 
 ### :octicons-calendar-24: May 19-23, 2025
 
-### :octicons-location-24: University of Minnesota, Minneapolis Minnesota
+### :octicons-location-24: University of Minnesota, Minneapolis
 
 
 !!! abstract ""
