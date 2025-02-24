@@ -47,6 +47,7 @@ extra:
 nav:
   - Home : index.md
   - About: about.md
+  - Minneapolis 2025: '2025/index.md'
   - Glossary : glossary.md
   - Past Conferences:
       - 2024: '2024/index.md'
