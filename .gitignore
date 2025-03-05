@@ -11,3 +11,4 @@ Gemfile.lock
 node_modules
 site/
 .cache
+docs/images/.DS_Store
