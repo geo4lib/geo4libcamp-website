@@ -1,4 +1,8 @@
 
+
+
+
+
 ![](../images/banner-2025.png){ width=100% }
 # Geo4LibCamp 2025: University of Minnesota Twin Cities - Minneapolis
 
@@ -7,10 +11,10 @@
 !!! gbl inline "Info" 
 
 	### :octicons-location-24: University of Minnesota Campus, Minneapolis, Minnesota
-	### :octicons-calendar-24:  Tuesday, May 20 - Friday, 23, 2025
-	* Main Sessions: Tuesday-Thursday (Workshops, presentations, unconference sessions)
-	* Optional Working Session: Friday
-	### Registration Cost: TBD
+	### :octicons-calendar-24:  Monday, May 19 - Friday, 23, 2025
+	* Main Sessions: Tuesday-Thursday (Presentations & unconference sessions)
+	* Optional Co-working Sessions: Monday & Friday
+	### Registration Cost: $175
 
 
 
@@ -20,6 +24,27 @@ Geo4LibCamp 2025 will be held at the University of Minnesota, Minneapolis campus
 
 
 <br clear="left"/>
+
+## Registration Fee 
+
+The registration fee is $175.
+
+
+## Accomodations
+
+We are reserving a limited number of rooms in a conference hotel:
+
+[Courtyard by Marriott](https://www.marriott.com/en-us/hotels/mspdc-courtyard-minneapolis-downtown/overview/)
+
+* 1500 Washington Ave S Minneapolis, MN 55454
+* Conference rate: $149 + tax per night
+* Cutoff Date: 4/27/2024
+
+
+!!! warning "Hotel reservation info" 
+
+	Register by **April 27, 2024** to access the conference discount for reserved hotel blocks. The event discount code will be sent to you **after** you register for the conference.
+
 
 
 ## Conference Themes
@@ -59,15 +84,72 @@ Focus on emerging trends, new ideas, and collaborative futures in geospatial lib
 * Emerging technologies such as artificial intelligence
 
 
+## General Schedule
 
 
-## Registration Fee 
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Monday 5/19</th>
+    <th>Tuesday 5/20 (DATA)</th>
+    <th>Wednesday 5/21 (SERVICES)</th>
+    <th>Thursday 5/22 (FUTURES)</th>
+    <th>Friday 5/23</th>
+  </tr>
+  <tr>
+    <td><strong>8:30</strong></td>
+    <td></td>
+    <td>Coffee & Social</td>
+    <td>Coffee & Social</td>
+    <td>Coffee & Social</td>
+    <td>Coffee & Social</td>
+  </tr>
+  <tr>
+    <td><strong>9:00-11:00</strong></td>
+    <td></td>
+    <td>Presentations & Lightning Talks</td>
+    <td>Presentations & Lightning Talks</td>
+    <td>Presentations & Lightning Talks</td>
+    <td>Co-working Time or Field Trip</td>
+  </tr>
+  <tr>
+    <td><strong>11:00-12:00</strong></td>
+    <td></td>
+    <td>Unconference Pitches</td>
+    <td>Unconference Pitches</td>
+    <td>Unconference Pitches</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>12:00-1:30</strong></td>
+    <td></td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>1:30-4:00</strong></td>
+    <td>Co-working Time</td>
+    <td>Unconference Sessions</td>
+    <td>Unconference Sessions</td>
+    <td>Unconference Sessions</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>4:30-5:00</strong></td>
+    <td></td>
+    <td>Group Discussion</td>
+    <td>Group Discussion</td>
+    <td>Group Discussion & Wrap-up</td>
+    <td></td>
+  </tr>
+</table>
 
-TBD
 
-## Accomodations
 
-We are reserving a limited number of rooms in a conference hotel. 
+
+
 
 ## Travel
 
@@ -92,19 +174,10 @@ Option B
 3. Transfer to an eastbound Green Line and exit at the West Bank Station. 
 4. Walk 0.03 miles (5 minutes) to either the Courtyard or the Library.
 
-**Airport to East Bank (The Graduate Hotel)**
-
-1. Take the northbound Blue Line light rail towards Minneapolis. 
-2. Transfer at the U.S. Bank Stadium Station to an eastbound Green Line light rail towards St. Paul. 
-3. Get off at the East Bank Station
 
 ### Traveling by Train
 
-For those arriving by Amtrak’s Empire Builder, your stop will be at St. Paul’s Union Depot. From there, it’s straightforward to reach the campus:
-
-1. Take a westbound Green Line light rail directly from Union Depot to the University of Minnesota
-2. For the East Bank (The Graduate Hotel), exit at the East Bank Station. 
-3. For West Bank destinations (Andersen Library and Marriott Hotel), continue one more stop to the West Bank Station.
+For those arriving by Amtrak’s Empire Builder, your stop will be at St. Paul’s Union Depot. From there, take a westbound Green Line light rail directly from Union Depot to the University of Minnesota. Exit at the West Bank Station.
 
 
 ### Traveling by Car
@@ -115,7 +188,7 @@ For those arriving by Amtrak’s Empire Builder, your stop will be at St. Paul�
 
 ### Getting around
 
-The University’s Minneapolis campus is served by [Metro Transit](https://www.metrotransit.org) and campus buses. While campus is large, the conference venue is centrally located and is a 6-minute walk (0.3 miles) from the Courtyard by Marriott Minneapolis Downtown.
+The University’s Minneapolis campus is served by [Metro Transit](https://www.metrotransit.org) and campus buses. While campus is large, the conference venue is centrally located and is a 6-minute walk (0.3 miles) from the conference hotel, the Courtyard by Marriott Minneapolis Downtown.
 
 ## Local Guide
 
