@@ -14,7 +14,8 @@
 	### :octicons-calendar-24:  Monday, May 19 - Friday, 23, 2025
 	* Main Sessions: Tuesday-Thursday (Presentations & unconference sessions)
 	* Optional Co-working Sessions: Monday & Friday
-	### Registration Cost: $175
+	### :material-form-select: [Registration Form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343)
+	### :fontawesome-solid-dollar-sign: Registration Fee: $175
 
 
 
@@ -25,9 +26,9 @@ Geo4LibCamp 2025 will be held at the University of Minnesota, Minneapolis campus
 
 <br clear="left"/>
 
-## Registration Fee 
+## Registration
 
-The registration fee is $175.
+Register for the conference by [filling out this form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343) on the University of Minnesota’s registration system. The form will collect basic information and ask about your attendance at optional social events. The $175 registration fee covers daily lunches and snacks.
 
 
 ## Accomodations
@@ -105,7 +106,7 @@ Focus on emerging trends, new ideas, and collaborative futures in geospatial lib
     <td>Coffee & Social</td>
   </tr>
   <tr>
-    <td><strong>9:00-11:00</strong></td>
+    <td><strong>9:00-11:30</strong></td>
     <td></td>
     <td>Presentations & Lightning Talks</td>
     <td>Presentations & Lightning Talks</td>
@@ -113,7 +114,7 @@ Focus on emerging trends, new ideas, and collaborative futures in geospatial lib
     <td>Co-working Time or Field Trip</td>
   </tr>
   <tr>
-    <td><strong>11:00-12:00</strong></td>
+    <td><strong>11:30-12:00</strong></td>
     <td></td>
     <td>Unconference Pitches</td>
     <td>Unconference Pitches</td>
@@ -151,9 +152,9 @@ Focus on emerging trends, new ideas, and collaborative futures in geospatial lib
 
 
 
-## Travel
+## Traveling to the Conference
 
-### Traveling by Plane
+### By Air
 
 From the Minneapolis-St. Paul International Airport (MSP), light rail can bring you directly to the University:
 
@@ -175,12 +176,12 @@ Option B
 4. Walk 0.03 miles (5 minutes) to either the Courtyard or the Library.
 
 
-### Traveling by Train
+### By Train
 
-For those arriving by Amtrak’s Empire Builder, your stop will be at St. Paul’s Union Depot. From there, take a westbound Green Line light rail directly from Union Depot to the University of Minnesota. Exit at the West Bank Station.
+For those traveling to the Twin Cities via Amtrak, your stop will be at St. Paul’s Union Depot. From there, take a westbound Green Line light rail directly from Union Depot to the University of Minnesota. Exit at the West Bank Station.
 
 
-### Traveling by Car
+### By Car
 
 * From the North or South: Interstate 35W provides a direct route into Minneapolis, with named exits leading to the University of Minnesota.
 * From the East or West: Interstate 94 is your best approach, offering exits that place you near the campus area.
@@ -188,27 +189,43 @@ For those arriving by Amtrak’s Empire Builder, your stop will be at St. Paul�
 
 ### Getting around
 
-The University’s Minneapolis campus is served by [Metro Transit](https://www.metrotransit.org) and campus buses. While campus is large, the conference venue is centrally located and is a 6-minute walk (0.3 miles) from the conference hotel, the Courtyard by Marriott Minneapolis Downtown.
+#### Walk
+
+While campus is large, the conference venue is centrally located and just a 6-minute walk (0.3 miles) from the conference hotel, the Courtyard by Marriott Minneapolis Downtown. Many campus buildings, restaurants, and attractions are within a comfortable walking distance.
+
+#### Bus
+
+The University’s Minneapolis campus is served by Metro Transit and campus buses. [Metro Transit](https://www.metrotransit.org)’s bus system provides convenient connections across the city, including frequent service to downtown, nearby neighborhoods, and major attractions. The free Campus Connector shuttle runs between the Minneapolis and St. Paul campuses on weekdays.
+
+#### Bike
+
+Minneapolis is one of the most bike-friendly cities in the U.S., with an extensive network of bike lanes and scenic trails. The city’s Lime or Veo Ride systems offer public e-bikes for rent, while shared electric scooters are available seasonally. There are multiple docking stations and designated parking areas around campus and downtown.
+
+#### Light Rail
+
+The Metro Green Line provides direct access between downtown Minneapolis, campus, and downtown St. Paul, making it a convenient option for getting around. From the Minneapolis-St. Paul International Airport (MSP), take the Blue Line to downtown and transfer to the Green Line for a direct ride to campus, with stops near the conference venue and hotel.
+
 
 ## Local Guide
 
-The University of Minnesota Twin Cities is one of the nation's top public research universities, with an award-winning library system to match.  Come visit the institution that invented the pacemaker, the retractable seat belt, and the Honeycrisp apple. Come meet library colleagues who launched the [BTAA Geoportal](https://geo.btaa.org), the [Mapping Prejudice Project](https://mappingprejudice.umn.edu), the [Data Curation Network](https://datacurationnetwork.org), and host the world's largest [transgender oral history archive](https://www.lib.umn.edu/collections/special/tretter/transgender-oral-history-project). Wherever your professional interests lie, you'll find your warm and dedicated counterparts here at the University of Minnesota.
 
-Minneapolis is a vibrant and diverse city in the traditional homelands of the Dakota people, and is known for its parks, lakes, art museums, theater, food, and music venues. The Minneapolis-St. Paul International Airport (MSP) has been named the "Best Airport in North America" several times, and the city has great public transportation options. Ride our light rail from the airport directly to your hotel downtown, and immediately curbside to the conference venue on campus. 
+The University of Minnesota Twin Cities is one of the nation's top public research universities, with an award-winning library system to match.  Come visit the institution that invented the pacemaker, the retractable seat belt, and the Honeycrisp apple. Meet library colleagues who launched the [BTAA Geoportal](https://geo.btaa.org), the [Mapping Prejudice Project](https://mappingprejudice.umn.edu), the [Data Curation Network](https://datacurationnetwork.org), and who host the world's largest [transgender oral history archive](https://www.lib.umn.edu/collections/special/tretter/transgender-oral-history-project). Wherever your professional interests lie, you'll find dedicated and welcoming counterparts here at the University of Minnesota.
 
-#### Places to eat & drink near campus
+Minneapolis is a vibrant, diverse city located on the traditional homelands of the Dakota people. Known for its parks, lakes, museums, theaters, food, and music scene, the city offers plenty to explore. 
+
+
+### Places to eat & drink near campus
 
 *   [Al’s Breakfast](https://www.alsbreakfastmpls.com/) 
 *   [Hard Times Cafe](https://www.facebook.com/hardtimescafe/)
 *   [The Market at Malcolm Yards](https://malcolmyards.market/)
 *   [Afro Deli](https://www.afrodeli.com)
 *   [Surly Brewing Company](https://surlybrewing.com/)
-*   [O'Shaughnessy Distilling Co.](https://osdistilling.com/home/)
 *   [Palmer's Bar](https://palmers-bar.com/home)
 *   [The Corner Bar](https://thecorner.bar)
 
 
-#### Museums
+### Museums
 
 **Within walking distance**
 
@@ -221,7 +238,7 @@ Minneapolis is a vibrant and diverse city in the traditional homelands of the Da
 *   [Paisley Park](https://www.paisleypark.com/) Prince's home and studio (24 miles, 35 minutes by car)
 *   [Walker Art Center](https://walkerart.org/) and sculpture garden (3.3 miles, 35 minute ride on the 2 bus)
 
-#### Shopping
+### Shopping
 
 *   [Dinkytown](https://discoverthecities.com/dinkytown-minneapolis-guide/) (0.8 miles, about a 10 minute walk)
-*   [Mall of America](https://www.mallofamerica.com/) (12 miles, hop the lightrail to get there in an hour - requires a transfer from the Green line downtown to the Blue line)
+*   [Mall of America](https://www.mallofamerica.com/) (12 miles, hop on the Blue Line lightrail to get there)
