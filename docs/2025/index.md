@@ -147,8 +147,19 @@ Focus on emerging trends, new ideas, and collaborative futures in geospatial lib
   </tr>
 </table>
 
+### Scheduled Programming 
 
+* Geospatial Library Support Services
+* Introduction to Allmaps
+* Geospatial Metadata Strategies
+* New Tools for Writing Code
 
+### Lightning Talks
+
+* GIS and a Newly Established University Open Source Program Office
+* BTAA-GIN Geodata Collection Pilot
+* Running GeoBlacklight on GitHub pages
+* Deployment and Sharing of a World-Wide Geospatial Database of Political Entities
 
 
 
