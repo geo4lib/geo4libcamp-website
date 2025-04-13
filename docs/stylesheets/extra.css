@@ -75,7 +75,60 @@ h6 {
       max-width: 90%; 
 }
   
+  
+/* Grid with 3 */
 
+  .theme-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1em;
+  }
+
+  .theme-box {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+  }
+
+  .theme-box h3 {
+    margin-top: 0;
+    color: #333;
+  }
+
+  .theme-box em {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-style: italic;
+    color: #666;
+  }
+
+  .theme-box ul {
+    padding-left: 1.2rem;
+  }
+
+
+/* Grid with 4 */
+
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 2em 0;
+}
+
+.card {
+  background: #f8f8f8;
+  border-radius: 8px;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.05);
+}
+
+.card h3 {
+  margin-top: 0;
+}
   
 /* youtube video icon color */
 .video {
@@ -262,3 +315,52 @@ th, td {
   --md-primary-fg-color--dark:  #000;
 }
 
+/* For homepage */
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.hero-logo {
+  flex: 0 0 160px;
+  max-width: 160px;
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 240px;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.hero-text p {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-details {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+.hero-register a {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.5em 1em;
+  background-color: #005293;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.hero-register a:hover {
+  background-color: #003f6f;
+}

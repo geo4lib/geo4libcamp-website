@@ -29,6 +29,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.magiclink
+  - pymdownx.blocks.caption
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
@@ -47,9 +48,12 @@ extra:
 nav:
   - Home : index.md
   - About: about.md
-  - Minneapolis 2025: '2025/index.md'
-  - Glossary : glossary.md
-  - Past Conferences:
+  - Minneapolis 2025: 
+      - Overview: '2025/index.md'
+      - Themes and Sessions: '2025/sessions.md'
+      - Detailed schedule: '2025/agenda.md'
+  
+  - Past Events:
       - 2024: '2024/index.md'
       - 2023: '2023/agenda.md'
       - 2022: '2022.md' 
@@ -59,4 +63,5 @@ nav:
       - 2018: 'https://geo4libcamp2018.sched.com' 
       - 2017: 'https://geo4libcamp2017.sched.com'
       - 2016: 'https://geo4libcamp2016.sched.com'
+  - Glossary : glossary.md
 
