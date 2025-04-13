@@ -1,255 +1,117 @@
+![Geo4LibCamp 2025 banner](../images/banner-2025.png){ width=100% }
 
-
-
-
-
-![](../images/banner-2025.png){ width=100% }
 # Geo4LibCamp 2025: University of Minnesota Twin Cities - Minneapolis
 
+!!! warning "Deadline to Register"
+    Register by April 21, 2025! [Registration Form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343)
 
+!!! gbl inline "Info"
+    ### :octicons-location-24: University of Minnesota Campus, Minneapolis, Minnesota
+    ### :octicons-calendar-24: Monday, May 19 - Friday, May 23, 2025
+    * Main Sessions: Tuesday–Thursday (Presentations & unconference sessions)
+    * Optional Co-working: Monday & Friday
+    ### :material-form-select: [Register Here](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343)
+    ### :fontawesome-solid-dollar-sign: Registration Fee: $175
 
-!!! gbl inline "Info" 
-
-	### :octicons-location-24: University of Minnesota Campus, Minneapolis, Minnesota
-	### :octicons-calendar-24:  Monday, May 19 - Friday, 23, 2025
-	* Main Sessions: Tuesday-Thursday (Presentations & unconference sessions)
-	* Optional Co-working Sessions: Monday & Friday
-	### :material-form-select: [Registration Form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343)
-	### :fontawesome-solid-dollar-sign: Registration Fee: $175
-
-
+---
 
 ## Conference Venue
-
-Geo4LibCamp 2025 will be held at the University of Minnesota, Minneapolis campus. Our scheduled activities took place in the [Elmer L. Andersen Library](https://www.lib.umn.edu/spaces/andersen), which is home to the University's Archives and Special Collections Department. Andersen Library is located at the western end of the Washington Avenue Pedestrian Bridge.
-
-
-<br clear="left"/>
+Geo4LibCamp 2025 will be held at the [Elmer L. Andersen Library](https://www.lib.umn.edu/spaces/andersen) on the University of Minnesota's Minneapolis campus. The library houses the University Archives and Special Collections and is located at the west end of the Washington Avenue Pedestrian Bridge.
 
 ## Registration
+Complete the [registration form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343) through the University of Minnesota system. Registration includes lunches and snacks throughout the event.
 
-Register for the conference by [filling out this form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343) on the University of Minnesota’s registration system. The form will collect basic information and ask about your attendance at optional social events. The $175 registration fee covers daily lunches and snacks.
+- Fee: $175
+- Deadline: April 21, 2025
 
-
-## Accomodations
-
-We are reserving a limited number of rooms in a conference hotel:
-
+## Accommodations
+We have a room block reserved at the:
 [Courtyard by Marriott](https://www.marriott.com/en-us/hotels/mspdc-courtyard-minneapolis-downtown/overview/)
 
-* 1500 Washington Ave S Minneapolis, MN 55454
-* Conference rate: $149 + tax per night
-* Cutoff Date: 4/27/2024
+- 1500 Washington Ave S, Minneapolis, MN 55454
+- Rate: $149 + tax per night
+- Reservation deadline: April 21, 2025
 
+!!! warning "Hotel Booking Reminder"
+    The hotel discount code will be shared with attendees after registration is complete.
 
-!!! warning "Hotel reservation info" 
+## Schedule at a Glance
+### Optional Days
+- Monday, May 19: Pre-conference co-working (unstructured)
+- Friday, May 23: Field trip or co-working time
 
-	Register by **April 27, 2024** to access the conference discount for reserved hotel blocks. The event discount code will be sent to you **after** you register for the conference.
-
-
-
-## Conference Themes
-
-### Day 1: DATA	
-
-*Stewardship and Infrastructure*	
-
-
-Focus on managing our geospatial resources: data, metadata, maps, cataloging, formats, and workflows.	Topics may include:
-	
-* Metadata schemas and processing workflows
-* Data formats (e.g., PMTiles, COGs)
-* Repositories, databases, and backend infrastructures
-* Map collection development
-	
-### Day 2: SERVICES
-	
-*User Engagement and Discovery*
-
-Focus on support and platforms for researchers, educators, and students. Topics may include:	
-	
-* Library support services and programs
-* Web services (e.g., IIIF, GeoServer, ArcGIS Online, AllMaps)
-* Front-end delivery systems (e.g., ArcGIS Hub, GeoBlacklight)
-* Strategies for implementing and optimizing discovery platforms
-	
-### Day 3: FUTURES	
-
-*Innovation, Community, and Collaboration*
-
-Focus on emerging trends, new ideas, and collaborative futures in geospatial librarianship. Topics may include:
-
-* The future of Geo4Lib as an ongoing community
-* OpenGeoMetadata
-* Evolving roles of Metadata APIs
-* Emerging technologies such as artificial intelligence
-
-
-## General Schedule
-
-
-<table>
-  <tr>
-    <th>Time</th>
-    <th>Monday 5/19</th>
-    <th>Tuesday 5/20 (DATA)</th>
-    <th>Wednesday 5/21 (SERVICES)</th>
-    <th>Thursday 5/22 (FUTURES)</th>
-    <th>Friday 5/23</th>
-  </tr>
-  <tr>
-    <td><strong>8:30</strong></td>
-    <td></td>
-    <td>Coffee & Social</td>
-    <td>Coffee & Social</td>
-    <td>Coffee & Social</td>
-    <td>Coffee & Social</td>
-  </tr>
-  <tr>
-    <td><strong>9:00-11:30</strong></td>
-    <td></td>
-    <td>Presentations & Lightning Talks</td>
-    <td>Presentations & Lightning Talks</td>
-    <td>Presentations & Lightning Talks</td>
-    <td>Co-working Time or Field Trip</td>
-  </tr>
-  <tr>
-    <td><strong>11:30-12:00</strong></td>
-    <td></td>
-    <td>Unconference Pitches</td>
-    <td>Unconference Pitches</td>
-    <td>Unconference Pitches</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>12:00-1:30</strong></td>
-    <td></td>
-    <td>Lunch</td>
-    <td>Lunch</td>
-    <td>Lunch</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>1:30-4:00</strong></td>
-    <td>Co-working Time</td>
-    <td>Unconference Sessions</td>
-    <td>Unconference Sessions</td>
-    <td>Unconference Sessions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>4:30-5:00</strong></td>
-    <td></td>
-    <td>Group Discussion</td>
-    <td>Group Discussion</td>
-    <td>Group Discussion & Wrap-up</td>
-    <td></td>
-  </tr>
+### Main Sessions
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Tuesday<br>20th<br><small>DATA & METADATA</small></th>
+      <th>Wednesday<br>21st<br><small>SERVICES & WORKFLOWS</small></th>
+      <th>Thursday<br>22nd<br><small>PROJECTS & FUTURES</small></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>8:30 AM</td><td colspan="3">coffee/social time (30 min)</td></tr>
+    <tr><td>9:00 AM</td><td>Welcome & introductions</td><td rowspan="3">Panel / Workshop</td><td rowspan="2">Keynote: Michael Corey</td></tr>
+    <tr><td>9:30 AM</td><td rowspan="2">Panel / Presentations</td></tr>
+    <tr><td>10:00 AM</td><td>Lightning Talks</td></tr>
+    <tr><td>10:30 AM</td><td>Lightning Talks</td><td>Panel / Workshop</td><td>TBD</td></tr>
+    <tr><td>11:00 AM</td><td>Unconference intro</td><td>Lightning Talks</td><td>TBD</td></tr>
+    <tr><td>11:30 AM</td><td colspan="3">Unconference pitches</td></tr>
+    <tr><td>12:00–1:00 PM</td><td colspan="3">Lunch</td></tr>
+    <tr><td>1:30–3:00 PM</td><td>Unconference</td><td>Unconference</td><td>Unconference</td></tr>
+    <tr><td>3:00 PM</td><td colspan="3">Break</td></tr>
+    <tr><td>3:30–4:30 PM</td><td>Unconference</td><td>Unconference</td><td>Unconference</td></tr>
+    <tr><td>4:30 PM</td><td>Group discussion</td><td>Group discussion</td><td>Group discussion & wrap-up</td></tr>
+  </tbody>
 </table>
 
-### Scheduled Programming 
-
-* Geospatial Library Support Services
-* Introduction to Allmaps
-* Geospatial Metadata Strategies
-* New Tools for Writing Code
-
-### Lightning Talks
-
-* GIS and a Newly Established University Open Source Program Office
-* BTAA-GIN Geodata Collection Pilot
-* Running GeoBlacklight on GitHub pages
-* Deployment and Sharing of a World-Wide Geospatial Database of Political Entities
-
-
+!!! info "Want More Details?"
+    See the [Sessions & Themes page](sessions.md) and the [Detailed Agenda](agenda.md).
 
 ## Traveling to the Conference
-
 ### By Air
-
-From the Minneapolis-St. Paul International Airport (MSP), light rail can bring you directly to the University:
-
-**Airport to West Bank (Andersen Library and Courtyard by Marriott Hotel)** 
-
-Depending upon how long you want to walk, do one of the following:
-
-Option A
-
-1. Take the northbound Blue Line light rail towards Minneapolis
-2. Exit at the Cedar Riverside Station. 
-3. Walk 0.5 miles to the Courtyard by Marriott or 0.7 miles from Andersen Library.
-
-Option B
-
-1. Take the northbound Blue Line light rail towards Minneapolis
-2. Exit at U.S. Bank Stadium Station. 
-3. Transfer to an eastbound Green Line and exit at the West Bank Station. 
-4. Walk 0.03 miles (5 minutes) to either the Courtyard or the Library.
-
+Take the Blue Line light rail from MSP airport. For the West Bank area: Exit at Cedar Riverside and walk 0.5–0.7 miles OR Transfer to the Green Line at U.S. Bank Stadium and exit at West Bank.
 
 ### By Train
-
-For those traveling to the Twin Cities via Amtrak, your stop will be at St. Paul’s Union Depot. From there, take a westbound Green Line light rail directly from Union Depot to the University of Minnesota. Exit at the West Bank Station.
-
+From Amtrak's Union Depot in St. Paul, take the Green Line west to West Bank Station.
 
 ### By Car
+- **From North/South:** I-35W
+- **From East/West:** I-94
+- **From Southeast:** I-90 to I-35W
 
-* From the North or South: Interstate 35W provides a direct route into Minneapolis, with named exits leading to the University of Minnesota.
-* From the East or West: Interstate 94 is your best approach, offering exits that place you near the campus area.
-* From the Southeast: Interstate 90 connects to Interstate 35W northbound, bringing you into Minneapolis about 90 minutes later.
-
-### Getting around
-
-#### Walk
-
-While campus is large, the conference venue is centrally located and just a 6-minute walk (0.3 miles) from the conference hotel, the Courtyard by Marriott Minneapolis Downtown. Many campus buildings, restaurants, and attractions are within a comfortable walking distance.
-
-#### Bus
-
-The University’s Minneapolis campus is served by Metro Transit and campus buses. [Metro Transit](https://www.metrotransit.org)’s bus system provides convenient connections across the city, including frequent service to downtown, nearby neighborhoods, and major attractions. The free Campus Connector shuttle runs between the Minneapolis and St. Paul campuses on weekdays.
-
-#### Bike
-
-Minneapolis is one of the most bike-friendly cities in the U.S., with an extensive network of bike lanes and scenic trails. The city’s Lime or Veo Ride systems offer public e-bikes for rent, while shared electric scooters are available seasonally. There are multiple docking stations and designated parking areas around campus and downtown.
-
-#### Light Rail
-
-The Metro Green Line provides direct access between downtown Minneapolis, campus, and downtown St. Paul, making it a convenient option for getting around. From the Minneapolis-St. Paul International Airport (MSP), take the Blue Line to downtown and transfer to the Green Line for a direct ride to campus, with stops near the conference venue and hotel.
-
+### Getting Around
+- **Walk:** Campus and hotel are within a 6-minute walk
+- **Bus:** Metro Transit and free campus shuttles serve the area
+- **Bike:** Minneapolis has bike lanes, public e-bikes, and scooters
+- **Light Rail:** Green Line connects downtown Minneapolis, campus, and St. Paul
 
 ## Local Guide
-
 
 The University of Minnesota Twin Cities is one of the nation's top public research universities, with an award-winning library system to match.  Come visit the institution that invented the pacemaker, the retractable seat belt, and the Honeycrisp apple. Meet library colleagues who launched the [BTAA Geoportal](https://geo.btaa.org), the [Mapping Prejudice Project](https://mappingprejudice.umn.edu), the [Data Curation Network](https://datacurationnetwork.org), and who host the world's largest [transgender oral history archive](https://www.lib.umn.edu/collections/special/tretter/transgender-oral-history-project). Wherever your professional interests lie, you'll find dedicated and welcoming counterparts here at the University of Minnesota.
 
 Minneapolis is a vibrant, diverse city located on the traditional homelands of the Dakota people. Known for its parks, lakes, museums, theaters, food, and music scene, the city offers plenty to explore. 
 
-
-### Places to eat & drink near campus
-
-*   [Al’s Breakfast](https://www.alsbreakfastmpls.com/) 
-*   [Hard Times Cafe](https://www.facebook.com/hardtimescafe/)
-*   [The Market at Malcolm Yards](https://malcolmyards.market/)
-*   [Afro Deli](https://www.afrodeli.com)
-*   [Surly Brewing Company](https://surlybrewing.com/)
-*   [Palmer's Bar](https://palmers-bar.com/home)
-*   [The Corner Bar](https://thecorner.bar)
-
+### Nearby Places to Eat & Drink
+- [Al's Breakfast](https://www.alsbreakfastmpls.com/)
+- [Hard Times Cafe](https://www.facebook.com/hardtimescafe/)
+- [Malcolm Yards Market](https://malcolmyards.market/)
+- [Afro Deli](https://www.afrodeli.com)
+- [Surly Brewing Co.](https://surlybrewing.com/)
+- [Palmer's Bar](https://palmers-bar.com/home)
+- [The Corner Bar](https://thecorner.bar)
 
 ### Museums
+**Walking distance:**
+- [Weisman Art Museum](https://wam.umn.edu/)
+- [Mill City Museum](https://www.mnhs.org/millcity)
 
-**Within walking distance**
-
-*   [Weisman Art Museum](https://wam.umn.edu/) (On campus)
-*   [Mill City Museum](https://www.mnhs.org/millcity)
-
-**On transport**
-
-*   [Minneapolis Institute of Art](https://new.artsmia.org/exhibitions) (free, 2.6 miles, about 30 minutes on the 2 bus)
-*   [Paisley Park](https://www.paisleypark.com/) Prince's home and studio (24 miles, 35 minutes by car)
-*   [Walker Art Center](https://walkerart.org/) and sculpture garden (3.3 miles, 35 minute ride on the 2 bus)
+**Accessible via transit:**
+- [Minneapolis Institute of Art](https://new.artsmia.org/exhibitions)
+- [Paisley Park](https://www.paisleypark.com/)
+- [Walker Art Center](https://walkerart.org/)
 
 ### Shopping
-
-*   [Dinkytown](https://discoverthecities.com/dinkytown-minneapolis-guide/) (0.8 miles, about a 10 minute walk)
-*   [Mall of America](https://www.mallofamerica.com/) (12 miles, hop on the Blue Line lightrail to get there)
+- [Dinkytown](https://discoverthecities.com/dinkytown-minneapolis-guide/)
+- [Mall of America](https://www.mallofamerica.com/) (via Blue Line)
