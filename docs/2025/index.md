@@ -52,10 +52,10 @@ We have a room block reserved at the:
   </thead>
   <tbody>
     <tr><td>8:30 AM</td><td colspan="3">coffee/social time (30 min)</td></tr>
-    <tr><td>9:00 AM</td><td>Welcome & introductions</td><td rowspan="3">Panel / Workshop</td><td rowspan="2">Keynote: Michael Corey</td></tr>
+    <tr><td>9:00 AM</td><td>Welcome & introductions</td><td rowspan="4">Panel / Workshops</td><td rowspan="2">Keynote: Michael Corey</td></tr>
     <tr><td>9:30 AM</td><td rowspan="2">Panel / Presentations</td></tr>
     <tr><td>10:00 AM</td><td>Lightning Talks</td></tr>
-    <tr><td>10:30 AM</td><td>Lightning Talks</td><td>Panel / Workshop</td><td>TBD</td></tr>
+    <tr><td>10:30 AM</td><td>Lightning Talks</td><td>TBD</td></tr>
     <tr><td>11:00 AM</td><td>Unconference intro</td><td>Lightning Talks</td><td>TBD</td></tr>
     <tr><td>11:30 AM</td><td colspan="3">Unconference pitches</td></tr>
     <tr><td>12:00–1:00 PM</td><td colspan="3">Lunch</td></tr>
