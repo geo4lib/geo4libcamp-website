@@ -88,6 +88,8 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 
 :octicons-person-24: Eric Larson
 
+:   Large Language Models are everywhere, including all our favorite code editors, terminal windows, and cloud-based integrated development environments. This workshop will provide a background on leveraging AI-assisted programming tools to sharpen your technical skills and clean up your codebases. No programming experience necessary.
+
 
 ### Lightning Talks
 
