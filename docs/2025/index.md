@@ -91,9 +91,7 @@ We have a room block reserved at the:
     </tr>
     <tr>
       <td>1:30–3:00 PM</td>
-      <td>Unconference sessions</td>
-      <td>Unconference sessions</td>
-      <td>Unconference sessions</td>
+      <td  colspan="3">Unconference sessions</td>
     </tr>
     <tr>
       <td>3:00 PM</td>
@@ -101,9 +99,7 @@ We have a room block reserved at the:
     </tr>
     <tr>
       <td>3:30–4:30 PM</td>
-      <td>Unconference sessions</td>
-      <td>Unconference sessions</td>
-      <td>Unconference sessions</td>
+      <td  colspan="3">Unconference sessions</td>
     </tr>
     <tr>
       <td>4:30 PM</td>
