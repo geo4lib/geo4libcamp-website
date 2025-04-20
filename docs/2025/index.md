@@ -41,28 +41,72 @@ We have a room block reserved at the:
 - Friday, May 23: Field trip or co-working time
 
 ### Main Sessions
+
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
       <th>Time</th>
-      <th>Tuesday<br>20th<br><small>DATA & METADATA</small></th>
-      <th>Wednesday<br>21st<br><small>SERVICES & WORKFLOWS</small></th>
-      <th>Thursday<br>22nd<br><small>PROJECTS & FUTURES</small></th>
+      <th>Tuesday<br>May 20<br><small>Projects & Community</small></th>
+      <th>Wednesday<br>May 21<br><small>Services & Platforms</small></th>
+      <th>Thursday<br>May 22<br><small>Data & Metadata Management</small></th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>8:30 AM</td><td colspan="3">coffee/social time (30 min)</td></tr>
-    <tr><td>9:00 AM</td><td>Welcome & introductions</td><td rowspan="4">Panel / Workshops</td><td rowspan="2">Keynote: Michael Corey</td></tr>
-    <tr><td>9:30 AM</td><td rowspan="2">Panel / Presentations</td></tr>
-    <tr><td>10:00 AM</td><td>Lightning Talks</td></tr>
-    <tr><td>10:30 AM</td><td>Lightning Talks</td><td>TBD</td></tr>
-    <tr><td>11:00 AM</td><td>Unconference intro</td><td>Lightning Talks</td><td>TBD</td></tr>
-    <tr><td>11:30 AM</td><td colspan="3">Unconference pitches</td></tr>
-    <tr><td>12:00–1:00 PM</td><td colspan="3">Lunch</td></tr>
-    <tr><td>1:30–3:00 PM</td><td>Unconference</td><td>Unconference</td><td>Unconference</td></tr>
-    <tr><td>3:00 PM</td><td colspan="3">Break</td></tr>
-    <tr><td>3:30–4:30 PM</td><td>Unconference</td><td>Unconference</td><td>Unconference</td></tr>
-    <tr><td>4:30 PM</td><td>Group discussion</td><td>Group discussion</td><td>Group discussion & wrap-up</td></tr>
+    <tr>
+      <td>8:30 AM</td>
+      <td colspan="3">Coffee / social time (30 min)</td>
+    </tr>
+    <tr>
+      <td>9:00 AM</td>
+      <td>Welcome & introductions</td>
+      <td rowspan="3">Panel / Workshops</td>
+      <td rowspan="2">Keynote: Michael Corey</td>
+    </tr>
+    <tr>
+      <td>9:30 AM</td>
+      <td>Unconference overview</td>
+    </tr>
+    <tr>
+      <td>10:00 AM</td>
+      <td>Project presentations</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>10:45 AM</td>
+      <td colspan="3">Morning break or overflow time</td>
+    </tr>
+    <tr>
+      <td>11:00 AM</td>
+      <td>Lightning talks</td>
+      <td>Lightning talks</td>
+      <td>Panel</td>
+    </tr>
+    <tr>
+      <td>11:30 AM</td>
+      <td colspan="3">Unconference pitches</td>
+    </tr>
+    <tr>
+      <td>12:00–1:00 PM</td>
+      <td colspan="3">Lunch</td>
+    </tr>
+    <tr>
+      <td>1:30–3:00 PM</td>
+      <td  colspan="3">Unconference sessions</td>
+    </tr>
+    <tr>
+      <td>3:00 PM</td>
+      <td colspan="3">Afternoon break</td>
+    </tr>
+    <tr>
+      <td>3:30–4:30 PM</td>
+      <td  colspan="3">Unconference sessions</td>
+    </tr>
+    <tr>
+      <td>4:30 PM</td>
+      <td>Group discussion</td>
+      <td>Group discussion</td>
+      <td>Group discussion & wrap-up</td>
+    </tr>
   </tbody>
 </table>
 

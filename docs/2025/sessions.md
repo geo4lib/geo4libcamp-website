@@ -4,48 +4,16 @@ The 2025 Geo4LibCamp will feature a mix of structured and flexible programming, 
 
 ## Conference Themes
 
-<div class="theme-grid">
+### Theme 1: Projects & Community Building
+Hear stories from the field: new projects, lessons learned, and creative approaches to building stronger communities around geospatial libraries and open-source tools.
 
-  <div class="theme-box">
-    <h3>Day 1: DATA & METADATA</h3>
-    <em>Stewardship and Infrastructure</em>
-    <p>Focus on managing our geospatial resources: data, metadata, maps, cataloging, formats, and workflows. Topics may include:</p>
-    <ul>
-      <li>Metadata schemas and processing workflows</li>
-      <li>Data formats (e.g., PMTiles, COGs)</li>
-      <li>Repositories, databases, and backend infrastructures</li>
-      <li>Map collection development</li>
-    </ul>
-  </div>
+### Theme 2: Services & Platforms
+Explore the many ways libraries and support teams help others do geospatial work. Sessions will highlight service models, discovery tools, and strategies for connecting people with the data they need.
 
-  <div class="theme-box">
-    <h3>Day 2: SERVICES & WORKFLOWS</h3>
-    <em>User Engagement and Discovery</em>
-    <p>Focus on support and platforms for researchers, educators, and students. Topics may include:</p>
-    <ul>
-      <li>Library support services and programs</li>
-      <li>Web services (e.g., IIIF, GeoServer, ArcGIS Online, AllMaps)</li>
-      <li>Front-end delivery systems (e.g., ArcGIS Hub, GeoBlacklight)</li>
-      <li>Strategies for optimizing discovery platforms</li>
-    </ul>
-  </div>
-
-  <div class="theme-box">
-    <h3>Day 3: PROJECTS & FUTURES</h3>
-    <em>Innovation, Community, and Collaboration</em>
-    <p>Focus on emerging trends, new ideas, and collaborative futures in geospatial librarianship. Topics may include:</p>
-    <ul>
-      <li>The future of Geo4Lib as an ongoing community</li>
-      <li>OpenGeoMetadata</li>
-      <li>Evolving roles of Metadata APIs</li>
-      <li>Emerging technologies such as artificial intelligence</li>
-    </ul>
-  </div>
-
-</div>
+### Theme 3: Data & Metadata Management
+Dig into the nuts and bolts of geospatial data management. We will cover metadata strategies, schemas, workflows, licensing questions, and collaborative efforts like OpenGeoMetadata.
 
 ## Scheduled Programming
-
 
 ### Keynote - Mapping Prejudice: The Process is the Product
 
@@ -70,9 +38,9 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 :   Panelists will describe and discuss their approaches to providing geospatial support services in their libraries.
 
 
-#### Geospatial Metadata Strategies
+#### OpenGeoMetadata
 
-:   Panelists will describe and discuss their approaches to managing geospatial metadata.
+:   Panelists will describe and discuss their approaches to managing OpenGeoMetadata schemas and sharing repositories.
 
 
 ### Workshops
@@ -81,8 +49,7 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 
 :octicons-person-24: Stephen Appel
 
-:   An introduction to Allmaps.... what is it? How to use it with digital map collections. Maybe an introduction to the plugin for GeoBlacklight and forthcoming features of Allmaps Curator.
-
+:   An introduction to Allmaps: What it is and how to use it with digital map collections.
 
 #### **New Tools for Writing Code**
 
@@ -105,7 +72,6 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 :octicons-person-24: Karen Majewicz
 
 :   An update on the progress of the BTAA-GIN's new Geodata Collection initiative, including new metadata fields, processing scripts, and planned next steps.
-
 
 
 #### **Running GeoBlacklight on GitHub pages**
