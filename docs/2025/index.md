@@ -46,9 +46,9 @@ We have a room block reserved at the:
   <thead>
     <tr>
       <th>Time</th>
-      <th>Tuesday<br>May 20<br><small>Projects & Community</small></th>
-      <th>Wednesday<br>May 21<br><small>Services & Platforms</small></th>
-      <th>Thursday<br>May 22<br><small>Data & Metadata Management</small></th>
+      <th>Tuesday<br>May 20</th>
+      <th>Wednesday<br>May 21</th>
+      <th>Thursday<br>May 22</th>
     </tr>
   </thead>
   <tbody>
