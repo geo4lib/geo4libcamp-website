@@ -58,7 +58,7 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 :   Large Language Models are everywhere, including all our favorite code editors, terminal windows, and cloud-based integrated development environments. This workshop will provide a background on leveraging AI-assisted programming tools to sharpen your technical skills and clean up your codebases. No programming experience necessary.
 
 
-### Lightning Talks
+### Presentations & Lightning Talks
 
 #### **GIS and a Newly Established University Open Source Program Office**
 
@@ -92,3 +92,9 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 :octicons-person-24: Troy Aadland
 
 :   This talk will provide an overview of the diverse content available within the platform, including maps, GIS data, charts, and reports. It will also demonstrate how this content can be easily accessed  through the platform, as well as offline via WMTS services, offering flexibility for various use cases in research and education.
+
+#### Highlights of the SDOH & Place Data Discovery Application
+
+:octicons-person-24: Adam Cox
+
+: A overview of SDOH & Place Data Discovery Application, a platform that provides access to spatially indexed and curated databases, specifically designed for conducting health equity research

@@ -2,15 +2,14 @@
 
 # Geo4LibCamp 2025: University of Minnesota Twin Cities - Minneapolis
 
-!!! warning "Deadline to Register"
-    Register by April 21, 2025! [Registration Form](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343)
-
+!!! warning "Registration is closed"
+      
+      
 !!! gbl inline "Info"
     ### :octicons-location-24: University of Minnesota Campus, Minneapolis, Minnesota
     ### :octicons-calendar-24: Monday, May 19 - Friday, May 23, 2025
     * Main Sessions: Tuesday–Thursday (Presentations & unconference sessions)
     * Optional Co-working: Monday & Friday
-    ### :material-form-select: [Register Here](https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343)
     ### :fontawesome-solid-dollar-sign: Registration Fee: $175
 
 ---
@@ -46,9 +45,9 @@ We have a room block reserved at the:
   <thead>
     <tr>
       <th>Time</th>
-      <th>Tuesday<br>May 20</th>
-      <th>Wednesday<br>May 21</th>
-      <th>Thursday<br>May 22</th>
+      <th>Tuesday, May 20 <br>Projects & Community </th>
+      <th>Wednesday, May 21<br>Services & Platforms</th>
+      <th>Thursday, May 22 <br> Data/Metadata Management</th>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +58,7 @@ We have a room block reserved at the:
     <tr>
       <td>9:00 AM</td>
       <td>Welcome & introductions</td>
-      <td rowspan="3">Panel / Workshops</td>
+      <td rowspan="4">Panel | Workshops</td>
       <td rowspan="2">Keynote: Michael Corey</td>
     </tr>
     <tr>
@@ -68,25 +67,28 @@ We have a room block reserved at the:
     </tr>
     <tr>
       <td>10:00 AM</td>
-      <td>Project presentations</td>
-      <td>TBD</td>
+      <td rowspan="2">Project presentations</td>
+      <td rowspan="2">Campus tours</td>
     </tr>
-    <tr>
-      <td>10:45 AM</td>
-      <td colspan="3">Morning break or overflow time</td>
+        <tr>
+      <td>10:30 AM</td>
     </tr>
     <tr>
       <td>11:00 AM</td>
+      <td colspan="3">Morning break or overflow time</td>
+    </tr>
+    <tr>
+      <td>11:30 AM</td>
       <td>Lightning talks</td>
       <td>Lightning talks</td>
       <td>Panel</td>
     </tr>
     <tr>
-      <td>11:30 AM</td>
+      <td>12:00 AM</td>
       <td colspan="3">Unconference pitches</td>
     </tr>
     <tr>
-      <td>12:00–1:00 PM</td>
+      <td>12:30–1:30 PM</td>
       <td colspan="3">Lunch</td>
     </tr>
     <tr>

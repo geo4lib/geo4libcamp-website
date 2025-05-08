@@ -17,11 +17,6 @@ hide:
       May 19–23, 2025<br>
       University of Minnesota, Minneapolis
     </div>
-    <div class="hero-register">
-      <a href="https://learning.umn.edu/portal/events/reg/participantTypeSelection.do?method=load&entityId=54713343">
-        Register by April 21, 2025
-      </a>
-    </div>
   </div>
 </div>
 

@@ -277,12 +277,14 @@ th, td {
 .md-typeset .tabbed-labels>label {
       border-bottom: .1rem solid #0000;
       border-radius: .1rem .1rem 0 0;
-      color: var(--md-default-fg-color--light);
+/* 
+      color: var(--md-default-fg-color--dark);
+ */
       cursor: pointer;
       flex-shrink: 3;
-      font-size: 1.5rem;
+      font-size: 1.1rem;
       font-weight: 500;
-      padding: .78125em 1.25em .625em;
+      padding: .5em 1em .5em;
       scroll-margin-inline-start: 1rem;
       transition: background-color .25s,color .25s;
       white-space: wrap;
