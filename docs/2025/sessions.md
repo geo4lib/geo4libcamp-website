@@ -95,6 +95,6 @@ Mapping Prejudice's Deed Machine software is built with people at the center in 
 
 #### Highlights of the SDOH & Place Data Discovery Application
 
-:octicons-person-24: Adam Cox
+:octicons-person-24: Pengyin Shan & Adam Cox
 
 : A overview of SDOH & Place Data Discovery Application, a platform that provides access to spatially indexed and curated databases, specifically designed for conducting health equity research
