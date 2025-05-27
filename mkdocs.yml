@@ -47,13 +47,9 @@ extra:
   
 nav:
   - Home : index.md
-  - About: about.md
-  - Minneapolis 2025: 
-      - Overview: '2025/index.md'
-      - Themes and Sessions: '2025/sessions.md'
-      - Detailed schedule: '2025/agenda.md'
-  
+  - About: about.md  
   - Past Events:
+      - 2025: '2025/index.md'
       - 2024: '2024/index.md'
       - 2023: '2023/agenda.md'
       - 2022: '2022.md' 

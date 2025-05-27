@@ -2,6 +2,10 @@
 
 # Geo4LibCamp 2025: University of Minnesota Twin Cities - Minneapolis
 
+!!! info "More Details"
+    See the [Sessions & Themes page](sessions.md) and the [Detailed Agenda](agenda.md).
+
+
 !!! warning "Registration is closed"
       
       
@@ -112,8 +116,6 @@ We have a room block reserved at the:
   </tbody>
 </table>
 
-!!! info "Want More Details?"
-    See the [Sessions & Themes page](sessions.md) and the [Detailed Agenda](agenda.md).
 
 ## Traveling to the Conference
 ### By Air

@@ -14,8 +14,7 @@ hide:
     <h1>Welcome to Geo4LibCamp</h1>
     <p>An informal, hands-on gathering for professionals working with geospatial resources in libraries.</p>
     <div class="hero-details">
-      May 19–23, 2025<br>
-      University of Minnesota, Minneapolis
+      The next Geo4LibCamp will be in 2026 hosted by the University of Texas at Austin
     </div>
   </div>
 </div>
@@ -27,10 +26,6 @@ hide:
   <div class="card">
     <h3><a href="about/">About Geo4LibCamp</a></h3>
     <p>Learn about our mission, history, and the community behind this event.</p>
-  </div>
-  <div class="card">
-    <h3><a href="2025/">2025 Conference</a></h3>
-    <p>Get details about the schedule, themes, and how to participate in Geo4LibCamp 2025.</p>
   </div>
   <div class="card">
     <h3><a href="2024/">Past Events</a></h3>
