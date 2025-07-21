@@ -28,7 +28,7 @@ hide:
     <p>Learn about our mission, history, and the community behind this event.</p>
   </div>
   <div class="card">
-    <h3><a href="2024/">Past Events</a></h3>
+    <h3><a href="past-events/">Past Events</a></h3>
     <p>Explore sessions and materials from past Geo4LibCamp events.</p>
   </div>
   <div class="card">
