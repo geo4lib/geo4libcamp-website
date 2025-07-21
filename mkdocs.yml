@@ -48,16 +48,6 @@ extra:
 nav:
   - Home : index.md
   - About: about.md  
-  - Past Events:
-      - 2025: '2025/index.md'
-      - 2024: '2024/index.md'
-      - 2023: '2023/agenda.md'
-      - 2022: '2022.md' 
-      - 2021: '2021.md' 
-      - 2020: '2020.md' 
-      - 2019: 'https://geo4libcamp2019.sched.com' 
-      - 2018: 'https://geo4libcamp2018.sched.com' 
-      - 2017: 'https://geo4libcamp2017.sched.com'
-      - 2016: 'https://geo4libcamp2016.sched.com'
+  - Past Events: past-events.md
   - Glossary : glossary.md
 
