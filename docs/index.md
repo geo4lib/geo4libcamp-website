@@ -5,6 +5,9 @@ hide:
 
 ---
 
+<div class="announcement">
+  The next Geo4LibCamp will be June 8-12, 2026 hosted at the University of Texas at Austin
+</div>
 
 <div class="hero">
   <div class="hero-logo">
@@ -13,9 +16,6 @@ hide:
   <div class="hero-text">
     <h1>Welcome to Geo4LibCamp</h1>
     <p>An informal, hands-on gathering for professionals working with geospatial resources in libraries.</p>
-    <div class="hero-details">
-      The next Geo4LibCamp will be in 2026 hosted by the University of Texas at Austin
-    </div>
   </div>
 </div>
 
@@ -40,7 +40,6 @@ hide:
 	
 	
 	
-
 
 
 
