@@ -6,7 +6,7 @@ hide:
 ---
 
 <div class="announcement">
-  The next Geo4LibCamp will be June 8-12, 2026 hosted at the University of Texas at Austin
+  The next Geo4LibCamp will be June 8-12, 2026 hosted at the University of Texas at Austin. <a href = "https://cvent.utexas.edu/8oBxbE">Register here ↗</a>
 </div>
 
 <div class="hero">
@@ -24,6 +24,10 @@ hide:
 
 <div class="grid-cards">
   <div class="card">
+    <h3><a href="2026/">2026 Event</a></h3>
+    <p>Join us in Austin, TX for the 11th Geo4LibCamp!</p>
+  </div>
+  <div class="card">
     <h3><a href="about/">About Geo4LibCamp</a></h3>
     <p>Learn about our mission, history, and the community behind this event.</p>
   </div>
@@ -35,6 +39,7 @@ hide:
     <h3><a href="glossary/">Glossary</a></h3>
     <p>New to the field? Brush up on our lingo with a handy glossary.</p>
   </div>
+
 </div>
 
 	
