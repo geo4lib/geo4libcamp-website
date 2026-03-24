@@ -46,8 +46,10 @@ extra:
       generator: false
   
 nav:
-  - Home : index.md
-  - 2026 : 2026/index.md
+  - Home: index.md
+  - 2026:
+    - 2026/index.md
+    - Visitors Guide: 2026/visitors-guide.md
   - About: about.md  
   - Past Events: past-events.md
   - Glossary : glossary.md
