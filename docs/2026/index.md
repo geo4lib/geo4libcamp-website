@@ -16,7 +16,9 @@ Registration includes morning coffee and catered lunch on each day, map room soc
   
 ## Accommodations
 
-If you are planning to book a hotel room, we have a courtesy block established with the Hilton Garden Inn Austin University Capitol District which is located within walking distance (.5 miles) of the Perry-Castañeda Library. **Courtesy block details will be provided in the registration confirmation message.**
+If you are planning to book a hotel room, we have a courtesy block established with the Hilton Garden Inn Austin University Capitol District which is located within walking distance (.5 miles) of the Perry-Castañeda Library. The block rate is $145 per night.
+
+**A link to book your room with the block rate will be provided in the registration confirmation message.**
 
 ## Schedule
 
