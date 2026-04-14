@@ -30,6 +30,10 @@ If you are planning to book a hotel room, we have a courtesy block established w
 | Evening   | Map Room Social             | Dinner                      | Happy Hour                  |
 
 
+## Session Proposals
+
+[Submit your session proposal here](https://docs.google.com/forms/d/e/1FAIpQLScZpHA5hyyPz5Nw2yuRE0qdMIHko7U-K5tFTbStGOq5qD7X0g/viewform?usp=header)
+
 ## Conference Themes
 
 ### Theme 1: Projects & Community Building
