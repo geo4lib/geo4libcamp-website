@@ -8,7 +8,7 @@ Geo4LibCamp 2026 will be held at Perry-Castañeda Library, 101 East 21st Street,
 
 ## Registration
 
-Complete the registration form here: https://cvent.utexas.edu/8oBxbE
+Registration for the 2026 event has closed. Some morning sessions will be broadcast on Zoom; those details will be posted soon.
 
 Registration includes morning coffee and catered lunch on each day, map room social, and conference t-shirt. 
 
@@ -16,9 +16,8 @@ Registration includes morning coffee and catered lunch on each day, map room soc
   
 ## Accommodations
 
-If you are planning to book a hotel room, we have a courtesy block established with the Hilton Garden Inn Austin University Capitol District which is located within walking distance (.5 miles) of the Perry-Castañeda Library. The block rate is $145 per night.
+If you are planning to book a hotel room, we recommend the Hilton Garden Inn Austin University Capitol District, which is located within walking distance (.5 miles) of the Perry-Castañeda Library.
 
-**A link to book your room with the block rate will be provided in the registration confirmation message.**
 
 ## Schedule
 
@@ -30,9 +29,7 @@ If you are planning to book a hotel room, we have a courtesy block established w
 | Evening   | Map Room Social             | Dinner                      | Happy Hour                  |
 
 
-## Session Proposals
 
-[Submit your session proposal here](https://docs.google.com/forms/d/e/1FAIpQLScZpHA5hyyPz5Nw2yuRE0qdMIHko7U-K5tFTbStGOq5qD7X0g/viewform?usp=header)
 
 ## Conference Themes
 
