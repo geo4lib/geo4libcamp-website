@@ -19,18 +19,6 @@ Registration includes morning coffee and catered lunch on each day, map room soc
 If you are planning to book a hotel room, we recommend the Hilton Garden Inn Austin University Capitol District, which is located within walking distance (.5 miles) of the Perry-Castañeda Library.
 
 
-## Schedule
-
-|  Date     | Tues 6/9                    | Wed 6/10                    | Thurs 6/11                  |
-|-----------|-----------------------------|-----------------------------|-----------------------------|
-| **Theme** | **Projects and Community**  | **Services and Platforms**  | **Data and Metadata**       |
-| Morning   | Presentations and workshops | Presentations and workshops | Presentations and workshops |
-| Afternoon | Unconference Sessions       | Unconference Sessions       | Unconference Sessions       |
-| Evening   | Map Room Social             | Dinner                      | Happy Hour                  |
-
-
-
-
 ## Conference Themes
 
 ### Theme 1: Projects & Community Building

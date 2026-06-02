@@ -55,7 +55,7 @@
     max-width: 1020px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 64px repeat(4, 1fr);
+    grid-template-columns: 64px repeat(3, 1fr);
     gap: 2px;
     background: #d0ccc6;
     border-radius: 10px;
@@ -95,7 +95,6 @@
     line-height: 1.45;
   }
   .cell.empty { background: #faf8f4; }
-
   .cell.break {
     background: #f0f7f0;
     display: flex; align-items: center; justify-content: center;
@@ -154,9 +153,6 @@
   <!-- HEADERS -->
   <div class="col-header"></div>
   <div class="col-header">
-    <span class="day-name">Mon 6/8</span>
-  </div>
-  <div class="col-header">
     <span class="day-name">Tue 6/9</span>
     <span class="day-theme">Projects &amp; Community</span>
   </div>
@@ -171,14 +167,12 @@
 
   <!-- 8:30 AM -->
   <div class="time">8:30</div>
-  <div class="cell empty"></div>
   <div class="cell break">☕ Morning snacks &amp; coffee</div>
   <div class="cell break">☕ Morning snacks &amp; coffee</div>
   <div class="cell break">☕ Morning snacks &amp; coffee</div>
 
   <!-- 9:00 AM -->
   <div class="time">9:00</div>
-  <div class="cell empty"></div>
   <div class="cell keynote" style="grid-row: span 2;">
     <span class="stag stag-keynote">Opening</span>
     <div class="stitle">Intros and Conference Kick-off</div>
@@ -198,11 +192,9 @@
 
   <!-- 9:30 AM -->
   <div class="time">9:30</div>
-  <div class="cell empty"></div>
 
   <!-- 10:00 AM -->
   <div class="time">10:00</div>
-  <div class="cell empty"></div>
   <div class="cell talk">
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">The K-12 Teacher Fellowship Model: Expanding Geographic Literacy and Outreach in Map Libraries</div>
@@ -217,7 +209,6 @@
 
   <!-- 10:30 AM -->
   <div class="time">10:30</div>
-  <div class="cell empty"></div>
   <div class="cell talk">
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">Mapping Conflict: A Geospatial Analysis of 19th-Century Texas</div>
@@ -239,7 +230,6 @@
 
   <!-- 11:00 AM -->
   <div class="time">11:00</div>
-  <div class="cell empty"></div>
   <div class="cell talk">
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">Re-Creating Early Austin with Archival Records and GIS</div>
@@ -258,7 +248,6 @@
 
   <!-- 11:30 AM -->
   <div class="time">11:30</div>
-  <div class="cell empty"></div>
   <div class="cell lightning">
     <span class="stag stag-lightning">⚡ Lightning Talks</span>
     <div class="stitle">Lightning Talk Session</div>
@@ -267,60 +256,52 @@
 
   <!-- 12:00 PM -->
   <div class="time">12:00</div>
-  <div class="cell empty"></div>
   <div class="cell break">🍽 Catered Lunch in PCL</div>
   <div class="cell break">🍽 Catered Lunch in PCL</div>
   <div class="cell break">🍽 Catered Lunch in PCL</div>
 
   <!-- 1:00 PM -->
   <div class="time" style="grid-column:1;">1:00</div>
-  <div class="cell empty" style="grid-column:2;"></div>
+  <div class="cell workshop" style="grid-column:2; padding:6px 11px;">
+    <span class="stag stag-workshop">Unconference</span>
+    <div class="stitle">Unconference Planning</div>
+  </div>
   <div class="cell workshop" style="grid-column:3; padding:6px 11px;">
     <span class="stag stag-workshop">Unconference</span>
     <div class="stitle">Unconference Planning</div>
   </div>
-  <div class="cell workshop" style="grid-column:4; padding:6px 11px;">
-    <span class="stag stag-workshop">Unconference</span>
-    <div class="stitle">Unconference Planning</div>
-  </div>
-  <div class="cell fieldtrip" style="grid-column:5; grid-row:span 2; padding:6px 11px;">
+  <div class="cell fieldtrip" style="grid-column:4; grid-row:span 2; padding:6px 11px;">
     <span class="stag stag-fieldtrip">Field Trip · 1:15 PM</span>
     <div class="stitle">Visit to Harry Ransom Center (HRC)</div>
   </div>
 
   <!-- 1:30 PM -->
   <div class="time" style="grid-column:1;">1:30</div>
-  <div class="cell empty" style="grid-column:2;"></div>
+  <div class="cell workshop" style="grid-column:2; grid-row:span 5; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
   <div class="cell workshop" style="grid-column:3; grid-row:span 5; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
-  <div class="cell workshop" style="grid-column:4; grid-row:span 5; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
 
   <!-- 2:00 PM -->
   <div class="time" style="grid-column:1;">2:00</div>
-  <div class="cell empty" style="grid-column:2;"></div>
-  <div class="cell workshop" style="grid-column:5; grid-row:span 4; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
+  <div class="cell workshop" style="grid-column:4; grid-row:span 4; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
 
   <!-- 2:30 PM -->
   <div class="time" style="grid-column:1;">2:30</div>
-  <div class="cell empty" style="grid-column:2;"></div>
 
   <!-- 3:00 PM -->
   <div class="time" style="grid-column:1;">3:00</div>
-  <div class="cell empty" style="grid-column:2;"></div>
 
   <!-- 3:30 PM -->
   <div class="time" style="grid-column:1;">3:30</div>
-  <div class="cell empty" style="grid-column:2;"></div>
 
   <!-- 4:00 PM -->
   <div class="time" style="grid-column:1;">4:00</div>
-  <div class="cell empty" style="grid-column:2;"></div>
-  <div class="cell social" style="grid-column:3;">
+  <div class="cell social" style="grid-column:2;">
     <span class="stag stag-social">Social</span>
     <div class="stitle">Welcome Reception</div>
     <div class="sspeaker">PCL Map Room</div>
   </div>
-  <div class="cell empty" style="grid-column:4;"></div>
-  <div class="cell keynote" style="grid-column:5;">
+  <div class="cell empty" style="grid-column:3;"></div>
+  <div class="cell keynote" style="grid-column:4;">
     <span class="stag stag-keynote">Closing</span>
     <div class="stitle">Conference Wrap-up</div>
   </div>
@@ -328,36 +309,33 @@
   <!-- 5:00 PM -->
   <div class="time" style="grid-column:1;">5:00</div>
   <div class="cell empty" style="grid-column:2;"></div>
-  <div class="cell empty" style="grid-column:3;"></div>
-  <div class="cell social" style="grid-column:4;">
+  <div class="cell social" style="grid-column:3;">
     <span class="stag stag-social">Happy Hour</span>
     <div class="stitle">Hole in the Wall</div>
   </div>
-  <div class="cell social" style="grid-column:5;">
+  <div class="cell social" style="grid-column:4;">
     <span class="stag stag-social">Happy Hour</span>
     <div class="stitle">Cloak Room</div>
   </div>
 
   <!-- 6:00 PM -->
   <div class="time" style="grid-column:1;">6:00</div>
-  <div class="cell empty" style="grid-column:2;"></div>
-  <div class="cell social" style="grid-column:3;">
+  <div class="cell social" style="grid-column:2;">
     <span class="stag stag-social">Happy Hour</span>
     <div class="stitle">Scholz Garten</div>
   </div>
+  <div class="cell empty" style="grid-column:3;"></div>
   <div class="cell empty" style="grid-column:4;"></div>
-  <div class="cell empty" style="grid-column:5;"></div>
 
   <!-- 7:30 PM -->
   <div class="time" style="grid-column:1;">7:30</div>
   <div class="cell empty" style="grid-column:2;"></div>
-  <div class="cell empty" style="grid-column:3;"></div>
-  <div class="cell social" style="grid-column:4;">
+  <div class="cell social" style="grid-column:3;">
     <span class="stag stag-social">Evening Activity</span>
     <div class="stitle">🦇 Bat Viewing</div>
     <div class="sspeaker">Congress Avenue Bridge</div>
   </div>
-  <div class="cell empty" style="grid-column:5;"></div>
+  <div class="cell empty" style="grid-column:4;"></div>
 
 </div>
 </div>
