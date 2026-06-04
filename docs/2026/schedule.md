@@ -199,6 +199,7 @@
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">The K-12 Teacher Fellowship Model: Expanding Geographic Literacy and Outreach in Map Libraries</div>
     <div class="sspeaker">Ryan Matke</div>
+    <div class="sorg">University of Minnesota Libraries</div>
   </div>
   <div class="cell talk">
     <span class="stag stag-talk">Presentation</span>
@@ -225,7 +226,7 @@
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">Different Tools, Same Wall: Overcoming Barriers to Multi-Institution Collection Cooperation</div>
     <div class="sspeaker">Kathleen Weessies</div>
-    <div class="sorg">Head, Maps &amp; Geospatial Services — Michigan State University</div>
+    <div class="sorg">Michigan State University</div>
   </div>
 
   <!-- 11:00 AM -->
@@ -234,16 +235,18 @@
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">Re-Creating Early Austin with Archival Records and GIS</div>
     <div class="sspeaker">Jennifer Chenoweth</div>
-    <div class="sorg">Division Manager, Austin History Center</div>
+    <div class="sorg">Austin History Center</div>
   </div>
   <div class="cell keynote" style="grid-row: span 2;">
     <span class="stag stag-keynote">Keynote</span>
     <div class="stitle">Texas Geographic Information Office Keynote</div>
+    <div class="sspeaker">Richard Wade, Chris Repka</div>
   </div>
   <div class="cell keynote" style="grid-row: span 2;">
     <span class="stag stag-keynote">Keynote</span>
     <div class="stitle">Pedagogies of Spatial History: From HGIS to Historical AR</div>
     <div class="sspeaker">Andrew Britt</div>
+    <div class="sorg">UT Austin</div>
   </div>
 
   <!-- 11:30 AM -->
