@@ -198,7 +198,7 @@
   <div class="cell talk">
     <span class="stag stag-talk">Presentation</span>
     <div class="stitle">The K-12 Teacher Fellowship Model: Expanding Geographic Literacy and Outreach in Map Libraries</div>
-    <div class="sspeaker">Ryan Matke</div>
+    <div class="sspeaker">Ryan Mattke</div>
     <div class="sorg">University of Minnesota Libraries</div>
   </div>
   <div class="cell talk">
