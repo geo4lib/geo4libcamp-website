@@ -1,0 +1,45 @@
+- content:  30 minutes
+  icon: ':material-coffee-outline:'
+  sub_title: 8:30 AM  <br> Tuesday
+  title: Coffee/snacks
+  
+- content: 30 minutes
+  icon: ':octicons-project-roadmap-24:'
+  sub_title: 9:00 AM  <br> Tuesday
+  title: Welcome & Logistics
+    
+- content: 120 minutes <br>  We will join the [GLOW virtual session](https://www.lib.uchicago.edu/conferences/glow/), modified for an online and condensed format, our discussions will cover workflows and activities undertaken within university library contexts, building on shared vocabularies and practices. A second focal area includes review of current and future digital platforms regularly used as portals for search and dissemination of OERs.
+  icon: ':material-google-classroom:'
+  sub_title: 10:00 AM  <br> Tuesday
+  title: GIS Librarians for Open Workflows (GLOW) Virtual Forum Group
+      
+- content: 90 minutes
+  icon: ':shallow_pan_of_food:'
+  sub_title: 12:00 PM  <br> Tuesday
+  title: Lunch
+  
+- content: 60 minutes<br>The 2020 decennial Census and its subsequent redistricting cycle was one of the most hotly contested line-drawing exercises in U.S. history. After a rapid series of overlapping legislative map proposals, accusations of gerrymandering, political lawsuits, arguments before the Supreme Court, and one nationwide mid-term Congressional election board member Michal Migurski will describe the creation and role of PlanScore, a political science mapmaking project tackling the challenge of making redistricting fair and easy to understand.<br> Michal Migurski is a co-creator of PlanScore.org, a head of data products at Felt.com, a former mapping team leader for Facebook, and a longtime champion of open geodata and the software tools to make it. His many past roles also include Remix.com, Code for America, and Stamen Design.
+  icon: ':key2:'
+  sub_title: 1:30 PM  <br> Tuesday
+  title: Keynote- Making Redistricting More Fair with PlanScore
+  
+- content: We will collaboaratively select the unconference topics and set up sessions
+  icon: ':material-google-classroom:'
+  sub_title: 3:30 PM  <br> Tuesday
+  title: Unconference voting and scheduling
+  
+- content: 30 minutes
+  icon: ':material-coffee-outline:'
+  sub_title: 3:00 PM  <br> Tuesday
+  title: Break
+  
+- content: 90 minutes
+  icon: ':material-google-classroom:'
+  sub_title: 3:30 PM  <br> Tuesday
+  title: Unconference Sessions
+  
+- content: Pizza at the Farm - Stanford Teaching Farm
+  icon: ':pizza:'
+  sub_title: 6:00 PM <br> Wednesday
+  title: Evening Activity
+  
