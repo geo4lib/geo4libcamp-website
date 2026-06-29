@@ -145,5 +145,4 @@ A strategy session on using GIS to organize and provide access to unprocessed co
 
 A roundtable on the varied aspects of maintaining a spatial data lab, including hardware maintenance, software licensing, and usage policies.
 
-* 
 
