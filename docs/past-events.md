@@ -2,6 +2,14 @@
 
 Explore past Geo4LibCamp events, including original agendas, summaries of key discussions, and reflections from the community.
 
+
+---
+
+## 2026  
+**Austin, TX · June 9-11, 2026**
+
+- [Event Info](../2026): Agenda and session details.  
+- [Summary](../2026/summary): Overview of projects, community planning, and key outcomes.  
 ---
 
 ## 2025  

@@ -20,10 +20,6 @@ hide:
 
 <div class="grid-cards">
   <div class="card">
-    <h3><a href="2026/">2026 Event</a></h3>
-    <p>Join us in Austin, TX for the 11th Geo4LibCamp!</p>
-  </div>
-  <div class="card">
     <h3><a href="about/">About Geo4LibCamp</a></h3>
     <p>Learn about our mission, history, and the community behind this event.</p>
   </div>

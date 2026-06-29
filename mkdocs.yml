@@ -9,13 +9,8 @@ theme:
     - accent: deep purple
         
   features:
-    - navigation.expand
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - toc.follow
-    - toc.integrate
-    - content.tabs.link
     
 extra_css:
   - stylesheets/extra.css
@@ -47,10 +42,6 @@ extra:
   
 nav:
   - Home: index.md
-  - 2026:
-    - 2026/index.md
-    - Schedule: 2026/schedule.md
-    - Visitors Guide: 2026/visitors-guide.md
   - About: about.md  
   - Past Events: past-events.md
   - Glossary : glossary.md
