@@ -165,6 +165,7 @@ h6 {
 /* set the colors and size of the site title in the banner */
 .md-header  {
   background-color: #fff;
+  border-bottom: 4px solid #6BB874;
    }
    
 .md-header__topic  {
@@ -338,11 +339,18 @@ th, td {
   justify-content: space-between;
   gap: 1.5rem;
   margin-top: 2rem;
+  padding: 1.5rem;
+  background: linear-gradient(90deg, rgba(107, 184, 116, 0.16), rgba(107, 184, 116, 0.04));
+  border-radius: 8px;
 }
 
 .hero-logo {
   flex: 0 0 160px;
   max-width: 160px;
+}
+
+.hero-logo img {
+  border-radius: 8px;
 }
 
 .hero-text {
@@ -353,6 +361,7 @@ th, td {
 .hero-text h1 {
   margin-top: 0;
   font-size: 1.8rem;
+  color: #1f6f2a;
 }
 
 .hero-text p {
@@ -377,4 +386,7 @@ th, td {
 
 .hero-register a:hover {
   background-color: #003f6f;
+}
+
+.grid-cards .card {
 }
