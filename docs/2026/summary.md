@@ -10,6 +10,7 @@
 * **Scaling via Automation & AI:** Strong interest in using AI for metadata authoring, text extraction, and automated georeferencing, balanced with a recognition that human verification remains essential for accuracy.  
 * **Community Stewardship:** A focus on "ephemeral" data (like ArcGIS Hubs). There is a growing consensus that libraries must play an active role in saving born-digital public data before it disappears.  
 * **Pedagogical Integration:** Using map libraries as "instructional hubs," where students and teachers aren't just consumers of map data but are active creators of geospatial content (AR, GIS labs, crowd-sourced projects).
+* **Texas History:** Several presentations provided provided an opportunity to learn more about Texas history, geography, and communities.
 
 ## Tuesday, June 9
 
