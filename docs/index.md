@@ -2,8 +2,11 @@
 hide:
   - navigation
   - toc
-
 ---
+
+<div class="announcement">
+  Save the date! Geo4LibCamp 2027 will be held May 4-6, 2027 at Stanford University.
+</div>
 
 <div class="hero">
   <div class="hero-logo">
@@ -14,9 +17,6 @@ hide:
     <p>An informal, hands-on gathering for professionals working with geospatial resources in libraries.</p>
   </div>
 </div>
-
-
-
 
 <div class="grid-cards">
   <div class="card">
@@ -33,15 +33,3 @@ hide:
   </div>
 
 </div>
-
-	
-	
-	
-
-
-
-
-
-
-
-
