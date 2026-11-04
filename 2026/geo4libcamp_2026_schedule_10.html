@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Geo4LibCamp 2026 — Run of Show</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0f2a4a;
+    --teal: #1a7f75;
+    --gold: #c8922a;
+    --slate: #5a6e82;
+    --warm-bg: #f7f4ef;
+    --card-bg: #ffffff;
+    --muted: #8c9aaa;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--warm-bg);
+    color: #2a2a2a;
+    padding: 40px 24px 60px;
+  }
+  .masthead {
+    max-width: 1020px;
+    margin: 0 auto 28px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--navy);
+    padding-bottom: 14px;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .masthead h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 34px;
+    color: var(--navy);
+    line-height: 1.1;
+  }
+  .masthead h1 em { font-style: italic; color: var(--teal); }
+  .masthead-meta {
+    text-align: right;
+    font-size: 13px;
+    color: var(--slate);
+    line-height: 1.7;
+  }
+  .masthead-meta strong { display: block; font-size: 15px; color: var(--navy); font-weight: 600; }
+
+  .legend {
+    max-width: 1020px;
+    margin: 0 auto 20px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .legend-label { font-size: 11px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.7px; }
+  .badge {
+    font-size: 10.5px; font-weight: 700; padding: 3px 9px;
+    border-radius: 20px; text-transform: uppercase; letter-spacing: 0.4px;
+  }
+
+  /* Grid: time col + 4 day cols */
+  .schedule {
+    max-width: 1020px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 64px repeat(3, 1fr);
+    gap: 2px;
+    background: #d0ccc6;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 24px rgba(15,42,74,0.10);
+  }
+
+  .col-header {
+    background: var(--navy);
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+  }
+  .col-header .day-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 2px;
+  }
+  .col-header .day-theme {
+    font-size: 10px; opacity: 0.7; font-style: italic;
+    font-weight: 300; text-transform: uppercase; letter-spacing: 0.5px;
+  }
+
+  .time {
+    background: #eae6df;
+    font-size: 10px; font-weight: 600; color: var(--slate);
+    text-align: center; padding: 8px 4px;
+    display: flex; align-items: flex-start; justify-content: center;
+    padding-top: 9px; white-space: nowrap;
+  }
+
+  .cell {
+    background: var(--card-bg);
+    padding: 9px 11px;
+    font-size: 12px;
+    line-height: 1.45;
+  }
+  .cell.empty { background: #faf8f4; }
+
+  .cell.break {
+    background: #f0f7f0;
+    display: flex; align-items: center; justify-content: center;
+    gap: 7px; font-weight: 600; font-size: 12px;
+    color: #3a8a38; font-style: italic;
+  }
+  .cell.talk      { background: #e8f3f1; border-left: 3px solid #1a7f75; }
+  .cell.keynote   { background: #eef1f8; border-left: 3px solid #2a5aab; }
+  .cell.social    { background: #fdf5e6; border-left: 3px solid #c8922a; }
+  .cell.workshop  { background: #f3ebff; border-left: 3px solid #6a30b0; }
+  .cell.lightning { background: #fff8f0; border-left: 3px solid #d46a20; }
+  .cell.fieldtrip { background: #eef1f8; border-left: 3px solid #2a5aab; }
+
+  .stag {
+    display: inline-block; font-size: 9px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.5px;
+    padding: 2px 6px; border-radius: 10px; margin-bottom: 4px;
+  }
+  .stag-talk      { background: rgba(26,127,117,0.15); color: #1a7f75; }
+  .stag-keynote   { background: rgba(42,90,171,0.15); color: #2a5aab; }
+  .stag-social    { background: rgba(200,146,42,0.18); color: #c8922a; }
+  .stag-workshop  { background: rgba(106,48,176,0.12); color: #6a30b0; }
+  .stag-lightning { background: rgba(212,106,32,0.13); color: #d46a20; }
+  .stag-fieldtrip { background: rgba(42,90,171,0.10); color: #2a5aab; }
+
+  .stitle { font-weight: 600; color: var(--navy); margin-bottom: 3px; font-size: 12px; line-height: 1.35; }
+  .sspeaker { font-size: 11px; color: var(--slate); font-style: italic; }
+  .sorg { font-size: 10.5px; color: var(--muted); margin-top: 1px; }
+  .snote { font-size: 10px; color: var(--muted); margin-top: 4px; font-style: italic; }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <h1>Geo4Lib<em>Camp</em> 2026<br>Run of Show</h1>
+  <div class="masthead-meta">
+    <strong>June 9–11, 2026</strong>
+    University of Texas at Austin<br>Perry-Castañeda Library
+  </div>
+</div>
+
+<div class="legend">
+  <span class="legend-label">Key:</span>
+  <span class="badge" style="background:#eef1f8;color:#2a5aab;">Keynote</span>
+  <span class="badge" style="background:#e8f3f1;color:#1a7f75;">Presentation</span>
+  <span class="badge" style="background:#fff8f0;color:#d46a20;">⚡ Lightning Talks</span>
+  <span class="badge" style="background:#f3ebff;color:#6a30b0;">Workshop / Unconference</span>
+  <span class="badge" style="background:#fdf5e6;color:#c8922a;">Social</span>
+  <span class="badge" style="background:#f0f7f0;color:#3a8a38;">Break</span>
+</div>
+
+<div class="schedule">
+
+  <!-- HEADERS -->
+  <div class="col-header"></div>
+  <div class="col-header">
+    <span class="day-name">Tue 6/9</span>
+    <span class="day-theme">Projects &amp; Community</span>
+  </div>
+  <div class="col-header">
+    <span class="day-name">Wed 6/10</span>
+    <span class="day-theme">Services &amp; Platforms</span>
+  </div>
+  <div class="col-header">
+    <span class="day-name">Thu 6/11</span>
+    <span class="day-theme">Data &amp; Metadata</span>
+  </div>
+
+  <!-- 8:30 AM — snacks -->
+  <div class="time">8:30</div>
+  <div class="cell break">☕ Morning snacks &amp; coffee</div>
+  <div class="cell break">☕ Morning snacks &amp; coffee</div>
+  <div class="cell break">☕ Morning snacks &amp; coffee</div>
+
+  <!-- 9:00 AM -->
+  <div class="time">9:00</div>
+  <!-- Tue: kick-off spans 9:00–9:30 (rows 2–3) -->
+  <div class="cell keynote" style="grid-row: span 2;">
+    <span class="stag stag-keynote">Opening</span>
+    <div class="stitle">Intros and Conference Kick-off</div>
+  </div>
+  <!-- Wed: New Geospatial API spans 9:00–10:30 (rows 2–4) -->
+  <div class="cell talk" style="grid-row: span 3;">
+    <span class="stag stag-workshop">Workshop</span>
+    <div class="stitle">New Geospatial API from the Big Ten Academic Alliance</div>
+    <div class="sspeaker">Eric Larson &amp; Karen L Majewicz</div>
+    <div class="sorg">Big Ten Academic Alliance</div>
+  </div>
+  <!-- Thu: Cloud Optimized Formats spans 9:00–9:30 (rows 2–3) -->
+  <div class="cell talk" style="grid-row: span 2;">
+    <span class="stag stag-workshop">Workshop</span>
+    <div class="stitle">Getting Away from Servers: Cloud Optimized Formats for GeoBlacklight</div>
+    <div class="sspeaker">Stace Maples, Nick Budak, Kim Durante</div>
+    <div class="sorg">Stanford University Libraries</div>
+  </div>
+
+  <!-- 9:30 AM -->
+  <div class="time">9:30</div>
+  <!-- Tue kick-off already spans here -->
+  <!-- Wed Big Ten already spans here -->
+  <!-- Thu Cloud Optimized already spans here -->
+
+  <!-- 10:00 AM -->
+  <div class="time">10:00</div>
+  <!-- Tue 10:00 -->
+  <div class="cell talk">
+    <span class="stag stag-talk">Presentation</span>
+    <div class="stitle">The K-12 Teacher Fellowship Model: Expanding Geographic Literacy and Outreach in Map Libraries</div>
+    <div class="sspeaker">Ryan Matke</div>
+  </div>
+  <!-- Wed Big Ten still spanning (no cell needed) -->
+  <!-- Thu 10:00 -->
+  <div class="cell talk">
+    <span class="stag stag-talk">Presentation</span>
+    <div class="stitle">Automation and Allmaps: A Multi-Angled Approach for Large Collection Georeferencing</div>
+    <div class="sspeaker">Michael Shensky, Katherine Strickland, Alex Marden, Janelle Hedstrom</div>
+    <div class="sorg">UT Austin Libraries</div>
+  </div>
+
+  <!-- 10:30 AM -->
+  <div class="time">10:30</div>
+  <!-- Tue 10:30 -->
+  <div class="cell talk">
+    <span class="stag stag-talk">Presentation</span>
+    <div class="stitle">Mapping Conflict: A Geospatial Analysis of 19th-Century Texas</div>
+    <div class="sspeaker">Rubab Shahzad</div>
+    <div class="sorg">UT Arlington</div>
+  </div>
+  <!-- Wed 10:30: Workflows in Allmaps (10:30–11:00) -->
+  <div class="cell talk">
+    <span class="stag stag-talk">Presentation</span>
+    <div class="stitle">Workflows in Allmaps</div>
+    <div class="sspeaker">Stephen Appel</div>
+    <div class="sorg">American Geographical Society Library</div>
+  </div>
+  <!-- Thu 10:30 -->
+  <div class="cell talk">
+    <span class="stag stag-talk">Presentation</span>
+    <div class="stitle">Different Tools, Same Wall: Overcoming Barriers to Multi-Institution Collection Cooperation</div>
+    <div class="sspeaker">Kathleen Weessies</div>
+    <div class="sorg">Head, Maps &amp; Geospatial Services — Michigan State University</div>
+  </div>
+
+  <!-- 11:00 AM -->
+  <div class="time">11:00</div>
+  <!-- Tue 11:00 -->
+  <div class="cell talk">
+    <span class="stag stag-talk">Presentation</span>
+    <div class="stitle">Re-Creating Early Austin with Archival Records and GIS</div>
+    <div class="sspeaker">Jennifer Chenoweth</div>
+    <div class="sorg">Division Manager, Austin History Center</div>
+  </div>
+  <!-- Wed: TGIO Keynote spans 11:00–12:00 (rows 6–7) -->
+  <div class="cell keynote" style="grid-row: span 2;">
+    <span class="stag stag-keynote">Keynote</span>
+    <div class="stitle">Texas Geographic Information Office Keynote</div>
+  </div>
+  <!-- Thu: Andrew Britt keynote spans 11:00–11:30 (rows 6–7) -->
+  <div class="cell keynote" style="grid-row: span 2;">
+    <span class="stag stag-keynote">Keynote</span>
+    <div class="stitle">Pedagogies of Spatial History: From HGIS to Historical AR</div>
+    <div class="sspeaker">Andrew Britt</div>
+  </div>
+
+  <!-- 11:30 AM -->
+  <div class="time">11:30</div>
+  <!-- Tue 11:30 -->
+  <div class="cell lightning">
+    <span class="stag stag-lightning">⚡ Lightning Talks</span>
+    <div class="stitle">Lightning Talk Session</div>
+    <div class="sspeaker">Diane Lopez, Karen Majewicz, Eric Larson, Russell Taylor</div>
+  </div>
+  <!-- Wed TGIO still spanning -->
+  <!-- Thu Andrew Britt still spanning -->
+
+  <!-- 12:00 PM — Lunch -->
+  <div class="time">12:00</div>
+  <div class="cell break">🍽 Catered Lunch in PCL</div>
+  <div class="cell break">🍽 Catered Lunch in PCL</div>
+  <div class="cell break">🍽 Catered Lunch in PCL</div>
+
+  <!-- 1:00 PM — Unconference Planning (compact) -->
+  <!-- col1=time, col2=Mon, col3=Tue, col4=Wed, col5=Thu -->
+  <div class="time" style="grid-column:1;">1:00</div>
+  <div class="cell workshop" style="grid-column:2; padding:6px 11px;">
+    <span class="stag stag-workshop">Unconference</span>
+    <div class="stitle">Unconference Planning</div>
+  </div>
+  <div class="cell workshop" style="grid-column:3; padding:6px 11px;">
+    <span class="stag stag-workshop">Unconference</span>
+    <div class="stitle">Unconference Planning</div>
+  </div>
+  <div class="cell fieldtrip" style="grid-column:4; grid-row:span 2; padding:6px 11px;">
+    <span class="stag stag-fieldtrip">Field Trip · 1:15 PM</span>
+    <div class="stitle">Visit to Harry Ransom Center (HRC)</div>
+  </div>
+
+  <!-- 1:30 PM -->
+  <div class="time" style="grid-column:1;">1:30</div>
+  <!-- Tue: unconference 1:30–4:00 = 5 half-hour rows -->
+  <div class="cell workshop" style="grid-column:2; grid-row:span 5; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
+  <!-- Wed: unconference 1:30–4:00 = 5 half-hour rows -->
+  <div class="cell workshop" style="grid-column:3; grid-row:span 5; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
+  <!-- Thu: HRC spans into 1:30, no cell needed -->
+
+  <!-- 2:00 PM -->
+  <div class="time" style="grid-column:1;">2:00</div>
+  <!-- Tue col3 still spanning, Wed col4 still spanning -->
+  <!-- Thu: unconference 2:00–4:00 = 4 half-hour rows -->
+  <div class="cell workshop" style="grid-column:4; grid-row:span 4; display:flex; align-items:center; justify-content:center; text-align:center; color:#6a30b0; font-style:italic; font-size:14px; font-weight:600;">Unconference Sessions</div>
+
+  <!-- 2:30 PM -->
+  <div class="time" style="grid-column:1;">2:30</div>
+
+  <!-- 3:00 PM -->
+  <div class="time" style="grid-column:1;">3:00</div>
+
+  <!-- 3:30 PM — Tue unconference ends, Wed and Thu still spanning -->
+  <div class="time" style="grid-column:1;">3:30</div>
+
+  <!-- 4:00 PM — Wed unconference ends, Thu unconference ends -->
+  <div class="time" style="grid-column:1;">4:00</div>
+  <!-- Tue: Welcome Reception -->
+  <div class="cell social" style="grid-column:2;">
+    <span class="stag stag-social">Social</span>
+    <div class="stitle">Welcome Reception</div>
+    <div class="sspeaker">PCL Map Room</div>
+  </div>
+  <!-- Wed: empty (unconference just ended) -->
+  <div class="cell empty" style="grid-column:3;"></div>
+  <!-- Thu: Conference Wrap-up -->
+  <div class="cell keynote" style="grid-column:4;">
+    <span class="stag stag-keynote">Closing</span>
+    <div class="stitle">Conference Wrap-up</div>
+  </div>
+
+  <!-- 5:00 PM -->
+  <div class="time" style="grid-column:1;">5:00</div>
+  <div class="cell empty" style="grid-column:2;"></div>
+  <div class="cell social" style="grid-column:3;">
+    <span class="stag stag-social">Happy Hour</span>
+    <div class="stitle">Hole in the Wall</div>
+  </div>
+  <div class="cell social" style="grid-column:4;">
+    <span class="stag stag-social">Happy Hour</span>
+    <div class="stitle">Cloak Room</div>
+  </div>
+
+  <!-- 6:00 PM -->
+  <div class="time" style="grid-column:1;">6:00</div>
+  <div class="cell social" style="grid-column:2;">
+    <span class="stag stag-social">Happy Hour</span>
+    <div class="stitle">Scholz Garten</div>
+  </div>
+  <div class="cell empty" style="grid-column:3;"></div>
+  <div class="cell empty" style="grid-column:4;"></div>
+
+  <!-- 7:30 PM -->
+  <div class="time" style="grid-column:1;">7:30</div>
+  <div class="cell empty" style="grid-column:2;"></div>
+  <div class="cell social" style="grid-column:3;">
+    <span class="stag stag-social">Evening Activity</span>
+    <div class="stitle">🦇 Bat Viewing</div>
+    <div class="sspeaker">Congress Avenue Bridge</div>
+  </div>
+  <div class="cell empty" style="grid-column:4;"></div>
+
+</div>
+</body>
+</html>
